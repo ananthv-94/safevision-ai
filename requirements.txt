@@ -1,0 +1,16 @@
+ultralytics==8.3.228
+streamlit==1.50.0
+opencv-python==4.11.0.86
+numpy==2.2.6
+pandas==2.3.3
+torch==2.7.1
+torchvision==0.22.1
+scipy==1.15.3
+pyarrow==20.0.0
+matplotlib==3.10.3
+lapx>=0.5.11,<0.12
+imageio-ffmpeg==0.6.0
+pytest>=8,<10
+
+# CPU ONNX tools
+-r requirements-cpu.txt

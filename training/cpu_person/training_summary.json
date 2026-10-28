@@ -1,0 +1,47 @@
+{
+  "status": "completed",
+  "epochs_completed": 10,
+  "seconds": 116.06036979999772,
+  "original_sha256": "0ebbc80d4a7680d14987a577cd21342b65ecfd94632bd9a8da63ae6417644ee1",
+  "best_sha256": "38e56ca53e8a6c50ec319c7b7b3e7ee854e18b102e7e13d82d1cb59112275c9d",
+  "best_model": "models/best.pt",
+  "checkpoint_selection": "Highest Ultralytics validation fitness; test set not used",
+  "dataset_validation": {
+    "images": 120,
+    "boxes": 234,
+    "splits": {
+      "train": 84,
+      "val": 18,
+      "test": 18
+    },
+    "leakage_checks": "passed"
+  },
+  "configuration": {
+    "model": "yolo11n.pt",
+    "model_architecture": "YOLO11 Nano",
+    "device": "cpu",
+    "epochs": 10,
+    "imgsz": 320,
+    "batch": 4,
+    "threads": 2,
+    "lr0": 0.001,
+    "optimizer": "AdamW",
+    "freeze": 10,
+    "patience": 4,
+    "seed": 42,
+    "workers": 0,
+    "amp": false,
+    "dataset_version": "0bf028eba59390ea83a3d79aa443040c8dc94fe963058fd8413aee3d3412f3c5",
+    "split_sizes": {
+      "train": 84,
+      "val": 18,
+      "test": 18
+    }
+  },
+  "mlflow": {
+    "status": "logged",
+    "run_id": "ab47990144a9475dab914f2c5dff5eaf",
+    "experiment_id": "315233659202763784",
+    "tracking_uri": "file:///C:/Users/anant/Documents/Codex/2026-10-24/prioritize-the-working-video-demonstration-over/outputs/SafeVision/mlruns"
+  }
+}

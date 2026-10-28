@@ -1,0 +1,4 @@
+video_seconds,track_id,violation_type,zone_id
+0.0,1,restricted_zone_entry,zone_1
+0.64,4,restricted_zone_entry,zone_1
+2.6,7,restricted_zone_entry,zone_1

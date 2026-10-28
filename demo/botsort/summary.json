@@ -1,0 +1,41 @@
+{
+  "frames": 250,
+  "source_fps": 25.0,
+  "unique_track_ids": 4,
+  "incidents": 3,
+  "processing_fps": 9.660512622582182,
+  "inference_ms": 51.089110399989295,
+  "processing_seconds": 25.878543900000295,
+  "encoding_seconds": 1.348944099999244,
+  "tracker": "botsort",
+  "confidence": 0.35,
+  "model": "yolo11n.pt",
+  "device": "cpu",
+  "zone": [
+    [
+      0.32,
+      0.38
+    ],
+    [
+      0.82,
+      0.38
+    ],
+    [
+      0.95,
+      0.96
+    ],
+    [
+      0.2,
+      0.96
+    ]
+  ],
+  "cooldown_seconds": 5.0,
+  "environment": {
+    "python": "3.12.14",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD",
+    "torch": "2.7.1+cpu",
+    "ultralytics": "8.3.228",
+    "opencv": "4.11.0"
+  }
+}

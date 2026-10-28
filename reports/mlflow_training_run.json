@@ -1,0 +1,719 @@
+{
+  "run_id": "ab47990144a9475dab914f2c5dff5eaf",
+  "status": "FINISHED",
+  "parameters": {
+    "amp": "False",
+    "batch": "4",
+    "dataset_version": "0bf028eba59390ea83a3d79aa443040c8dc94fe963058fd8413aee3d3412f3c5",
+    "device": "cpu",
+    "epochs": "10",
+    "freeze": "10",
+    "imgsz": "320",
+    "lr0": "0.001",
+    "model": "yolo11n.pt",
+    "model_architecture": "YOLO11 Nano",
+    "optimizer": "AdamW",
+    "patience": "4",
+    "seed": "42",
+    "split_sizes": "{\"train\": 84, \"val\": 18, \"test\": 18}",
+    "threads": "2",
+    "workers": "0"
+  },
+  "final_metrics": {
+    "lr/pg0": 0.00019,
+    "lr/pg1": 0.00019,
+    "lr/pg2": 0.00019,
+    "metrics/mAP50-95_B_": 0.40008,
+    "metrics/mAP50_B_": 0.60136,
+    "metrics/precision_B_": 0.80068,
+    "metrics/recall_B_": 0.5641,
+    "train/box_loss": 0.89516,
+    "train/cls_loss": 1.18288,
+    "train/dfl_loss": 0.97979,
+    "val/box_loss": 1.08871,
+    "val/cls_loss": 1.38598,
+    "val/dfl_loss": 1.06506
+  },
+  "tags": {
+    "mlflow.runName": "yolo11n-cpu-person",
+    "safevision.stage": "training"
+  },
+  "metric_history": {
+    "lr/pg0": [
+      {
+        "value": 0.0802,
+        "step": 1,
+        "timestamp": 1792925508314
+      },
+      {
+        "value": 0.0593731,
+        "step": 2,
+        "timestamp": 1792925508371
+      },
+      {
+        "value": 0.0385084,
+        "step": 3,
+        "timestamp": 1792925508420
+      },
+      {
+        "value": 0.0176059,
+        "step": 4,
+        "timestamp": 1792925508478
+      },
+      {
+        "value": 0.00064,
+        "step": 5,
+        "timestamp": 1792925508539
+      },
+      {
+        "value": 0.00055,
+        "step": 6,
+        "timestamp": 1792925508592
+      },
+      {
+        "value": 0.00046,
+        "step": 7,
+        "timestamp": 1792925508684
+      },
+      {
+        "value": 0.00037,
+        "step": 8,
+        "timestamp": 1792925508761
+      },
+      {
+        "value": 0.00028,
+        "step": 9,
+        "timestamp": 1792925508831
+      },
+      {
+        "value": 0.00019,
+        "step": 10,
+        "timestamp": 1792925508897
+      }
+    ],
+    "lr/pg1": [
+      {
+        "value": 0.0002,
+        "step": 1,
+        "timestamp": 1792925508314
+      },
+      {
+        "value": 0.0003731,
+        "step": 2,
+        "timestamp": 1792925508371
+      },
+      {
+        "value": 0.0005084,
+        "step": 3,
+        "timestamp": 1792925508420
+      },
+      {
+        "value": 0.0006059,
+        "step": 4,
+        "timestamp": 1792925508478
+      },
+      {
+        "value": 0.00064,
+        "step": 5,
+        "timestamp": 1792925508543
+      },
+      {
+        "value": 0.00055,
+        "step": 6,
+        "timestamp": 1792925508600
+      },
+      {
+        "value": 0.00046,
+        "step": 7,
+        "timestamp": 1792925508693
+      },
+      {
+        "value": 0.00037,
+        "step": 8,
+        "timestamp": 1792925508761
+      },
+      {
+        "value": 0.00028,
+        "step": 9,
+        "timestamp": 1792925508839
+      },
+      {
+        "value": 0.00019,
+        "step": 10,
+        "timestamp": 1792925508905
+      }
+    ],
+    "lr/pg2": [
+      {
+        "value": 0.0002,
+        "step": 1,
+        "timestamp": 1792925508325
+      },
+      {
+        "value": 0.0003731,
+        "step": 2,
+        "timestamp": 1792925508380
+      },
+      {
+        "value": 0.0005084,
+        "step": 3,
+        "timestamp": 1792925508429
+      },
+      {
+        "value": 0.0006059,
+        "step": 4,
+        "timestamp": 1792925508486
+      },
+      {
+        "value": 0.00064,
+        "step": 5,
+        "timestamp": 1792925508544
+      },
+      {
+        "value": 0.00055,
+        "step": 6,
+        "timestamp": 1792925508600
+      },
+      {
+        "value": 0.00046,
+        "step": 7,
+        "timestamp": 1792925508699
+      },
+      {
+        "value": 0.00037,
+        "step": 8,
+        "timestamp": 1792925508778
+      },
+      {
+        "value": 0.00028,
+        "step": 9,
+        "timestamp": 1792925508839
+      },
+      {
+        "value": 0.00019,
+        "step": 10,
+        "timestamp": 1792925508905
+      }
+    ],
+    "metrics/mAP50-95_B_": [
+      {
+        "value": 0.13443,
+        "step": 1,
+        "timestamp": 1792925508281
+      },
+      {
+        "value": 0.20348,
+        "step": 2,
+        "timestamp": 1792925508355
+      },
+      {
+        "value": 0.27337,
+        "step": 3,
+        "timestamp": 1792925508404
+      },
+      {
+        "value": 0.28725,
+        "step": 4,
+        "timestamp": 1792925508461
+      },
+      {
+        "value": 0.36295,
+        "step": 5,
+        "timestamp": 1792925508519
+      },
+      {
+        "value": 0.40897,
+        "step": 6,
+        "timestamp": 1792925508579
+      },
+      {
+        "value": 0.40959,
+        "step": 7,
+        "timestamp": 1792925508653
+      },
+      {
+        "value": 0.39176,
+        "step": 8,
+        "timestamp": 1792925508741
+      },
+      {
+        "value": 0.40083,
+        "step": 9,
+        "timestamp": 1792925508815
+      },
+      {
+        "value": 0.40008,
+        "step": 10,
+        "timestamp": 1792925508880
+      }
+    ],
+    "metrics/mAP50_B_": [
+      {
+        "value": 0.22439,
+        "step": 1,
+        "timestamp": 1792925508273
+      },
+      {
+        "value": 0.32531,
+        "step": 2,
+        "timestamp": 1792925508352
+      },
+      {
+        "value": 0.44874,
+        "step": 3,
+        "timestamp": 1792925508404
+      },
+      {
+        "value": 0.45808,
+        "step": 4,
+        "timestamp": 1792925508457
+      },
+      {
+        "value": 0.53839,
+        "step": 5,
+        "timestamp": 1792925508511
+      },
+      {
+        "value": 0.58104,
+        "step": 6,
+        "timestamp": 1792925508576
+      },
+      {
+        "value": 0.59836,
+        "step": 7,
+        "timestamp": 1792925508642
+      },
+      {
+        "value": 0.59634,
+        "step": 8,
+        "timestamp": 1792925508732
+      },
+      {
+        "value": 0.60478,
+        "step": 9,
+        "timestamp": 1792925508806
+      },
+      {
+        "value": 0.60136,
+        "step": 10,
+        "timestamp": 1792925508872
+      }
+    ],
+    "metrics/precision_B_": [
+      {
+        "value": 0.01483,
+        "step": 1,
+        "timestamp": 1792925508265
+      },
+      {
+        "value": 0.98134,
+        "step": 2,
+        "timestamp": 1792925508343
+      },
+      {
+        "value": 0.78763,
+        "step": 3,
+        "timestamp": 1792925508396
+      },
+      {
+        "value": 0.78403,
+        "step": 4,
+        "timestamp": 1792925508449
+      },
+      {
+        "value": 0.72393,
+        "step": 5,
+        "timestamp": 1792925508502
+      },
+      {
+        "value": 0.69911,
+        "step": 6,
+        "timestamp": 1792925508567
+      },
+      {
+        "value": 0.73313,
+        "step": 7,
+        "timestamp": 1792925508633
+      },
+      {
+        "value": 0.86931,
+        "step": 8,
+        "timestamp": 1792925508724
+      },
+      {
+        "value": 0.70829,
+        "step": 9,
+        "timestamp": 1792925508798
+      },
+      {
+        "value": 0.80068,
+        "step": 10,
+        "timestamp": 1792925508862
+      }
+    ],
+    "metrics/recall_B_": [
+      {
+        "value": 0.32808,
+        "step": 1,
+        "timestamp": 1792925508273
+      },
+      {
+        "value": 0.17949,
+        "step": 2,
+        "timestamp": 1792925508346
+      },
+      {
+        "value": 0.38058,
+        "step": 3,
+        "timestamp": 1792925508396
+      },
+      {
+        "value": 0.4359,
+        "step": 4,
+        "timestamp": 1792925508453
+      },
+      {
+        "value": 0.4359,
+        "step": 5,
+        "timestamp": 1792925508511
+      },
+      {
+        "value": 0.48718,
+        "step": 6,
+        "timestamp": 1792925508567
+      },
+      {
+        "value": 0.51282,
+        "step": 7,
+        "timestamp": 1792925508642
+      },
+      {
+        "value": 0.51174,
+        "step": 8,
+        "timestamp": 1792925508727
+      },
+      {
+        "value": 0.5641,
+        "step": 9,
+        "timestamp": 1792925508798
+      },
+      {
+        "value": 0.5641,
+        "step": 10,
+        "timestamp": 1792925508862
+      }
+    ],
+    "train/box_loss": [
+      {
+        "value": 1.27905,
+        "step": 1,
+        "timestamp": 1792925508254
+      },
+      {
+        "value": 1.09391,
+        "step": 2,
+        "timestamp": 1792925508332
+      },
+      {
+        "value": 1.12978,
+        "step": 3,
+        "timestamp": 1792925508380
+      },
+      {
+        "value": 1.0658,
+        "step": 4,
+        "timestamp": 1792925508437
+      },
+      {
+        "value": 1.10795,
+        "step": 5,
+        "timestamp": 1792925508486
+      },
+      {
+        "value": 1.05302,
+        "step": 6,
+        "timestamp": 1792925508552
+      },
+      {
+        "value": 0.99356,
+        "step": 7,
+        "timestamp": 1792925508613
+      },
+      {
+        "value": 1.02026,
+        "step": 8,
+        "timestamp": 1792925508707
+      },
+      {
+        "value": 0.93256,
+        "step": 9,
+        "timestamp": 1792925508781
+      },
+      {
+        "value": 0.89516,
+        "step": 10,
+        "timestamp": 1792925508847
+      }
+    ],
+    "train/cls_loss": [
+      {
+        "value": 2.17227,
+        "step": 1,
+        "timestamp": 1792925508259
+      },
+      {
+        "value": 1.75687,
+        "step": 2,
+        "timestamp": 1792925508336
+      },
+      {
+        "value": 1.54766,
+        "step": 3,
+        "timestamp": 1792925508380
+      },
+      {
+        "value": 1.53342,
+        "step": 4,
+        "timestamp": 1792925508437
+      },
+      {
+        "value": 1.45508,
+        "step": 5,
+        "timestamp": 1792925508494
+      },
+      {
+        "value": 1.38179,
+        "step": 6,
+        "timestamp": 1792925508558
+      },
+      {
+        "value": 1.29861,
+        "step": 7,
+        "timestamp": 1792925508620
+      },
+      {
+        "value": 1.28295,
+        "step": 8,
+        "timestamp": 1792925508711
+      },
+      {
+        "value": 1.23364,
+        "step": 9,
+        "timestamp": 1792925508781
+      },
+      {
+        "value": 1.18288,
+        "step": 10,
+        "timestamp": 1792925508847
+      }
+    ],
+    "train/dfl_loss": [
+      {
+        "value": 1.23958,
+        "step": 1,
+        "timestamp": 1792925508264
+      },
+      {
+        "value": 1.09979,
+        "step": 2,
+        "timestamp": 1792925508341
+      },
+      {
+        "value": 1.12754,
+        "step": 3,
+        "timestamp": 1792925508388
+      },
+      {
+        "value": 1.06878,
+        "step": 4,
+        "timestamp": 1792925508445
+      },
+      {
+        "value": 1.11454,
+        "step": 5,
+        "timestamp": 1792925508502
+      },
+      {
+        "value": 1.09379,
+        "step": 6,
+        "timestamp": 1792925508561
+      },
+      {
+        "value": 1.03378,
+        "step": 7,
+        "timestamp": 1792925508627
+      },
+      {
+        "value": 1.07275,
+        "step": 8,
+        "timestamp": 1792925508716
+      },
+      {
+        "value": 1.00334,
+        "step": 9,
+        "timestamp": 1792925508791
+      },
+      {
+        "value": 0.97979,
+        "step": 10,
+        "timestamp": 1792925508856
+      }
+    ],
+    "val/box_loss": [
+      {
+        "value": 1.48757,
+        "step": 1,
+        "timestamp": 1792925508292
+      },
+      {
+        "value": 1.3049,
+        "step": 2,
+        "timestamp": 1792925508359
+      },
+      {
+        "value": 1.27322,
+        "step": 3,
+        "timestamp": 1792925508404
+      },
+      {
+        "value": 1.24405,
+        "step": 4,
+        "timestamp": 1792925508461
+      },
+      {
+        "value": 1.10788,
+        "step": 5,
+        "timestamp": 1792925508519
+      },
+      {
+        "value": 1.03421,
+        "step": 6,
+        "timestamp": 1792925508584
+      },
+      {
+        "value": 1.05369,
+        "step": 7,
+        "timestamp": 1792925508662
+      },
+      {
+        "value": 1.07139,
+        "step": 8,
+        "timestamp": 1792925508744
+      },
+      {
+        "value": 1.0847,
+        "step": 9,
+        "timestamp": 1792925508815
+      },
+      {
+        "value": 1.08871,
+        "step": 10,
+        "timestamp": 1792925508888
+      }
+    ],
+    "val/cls_loss": [
+      {
+        "value": 2.83319,
+        "step": 1,
+        "timestamp": 1792925508297
+      },
+      {
+        "value": 2.40293,
+        "step": 2,
+        "timestamp": 1792925508363
+      },
+      {
+        "value": 2.15545,
+        "step": 3,
+        "timestamp": 1792925508412
+      },
+      {
+        "value": 2.02976,
+        "step": 4,
+        "timestamp": 1792925508470
+      },
+      {
+        "value": 1.58763,
+        "step": 5,
+        "timestamp": 1792925508527
+      },
+      {
+        "value": 1.45807,
+        "step": 6,
+        "timestamp": 1792925508584
+      },
+      {
+        "value": 1.42287,
+        "step": 7,
+        "timestamp": 1792925508666
+      },
+      {
+        "value": 1.37296,
+        "step": 8,
+        "timestamp": 1792925508749
+      },
+      {
+        "value": 1.39412,
+        "step": 9,
+        "timestamp": 1792925508823
+      },
+      {
+        "value": 1.38598,
+        "step": 10,
+        "timestamp": 1792925508888
+      }
+    ],
+    "val/dfl_loss": [
+      {
+        "value": 1.24166,
+        "step": 1,
+        "timestamp": 1792925508306
+      },
+      {
+        "value": 1.22366,
+        "step": 2,
+        "timestamp": 1792925508363
+      },
+      {
+        "value": 1.08928,
+        "step": 3,
+        "timestamp": 1792925508412
+      },
+      {
+        "value": 1.06357,
+        "step": 4,
+        "timestamp": 1792925508470
+      },
+      {
+        "value": 1.01002,
+        "step": 5,
+        "timestamp": 1792925508533
+      },
+      {
+        "value": 1.00452,
+        "step": 6,
+        "timestamp": 1792925508584
+      },
+      {
+        "value": 1.02286,
+        "step": 7,
+        "timestamp": 1792925508675
+      },
+      {
+        "value": 1.05818,
+        "step": 8,
+        "timestamp": 1792925508760
+      },
+      {
+        "value": 1.06767,
+        "step": 9,
+        "timestamp": 1792925508831
+      },
+      {
+        "value": 1.06506,
+        "step": 10,
+        "timestamp": 1792925508897
+      }
+    ]
+  }
+}

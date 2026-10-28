@@ -1,0 +1,11 @@
+{
+  "torch_detections": 41,
+  "onnx_detections": 41,
+  "matched_at_iou95": 41,
+  "matched_fraction": 1.0,
+  "mean_matched_iou": 0.9999995395589639,
+  "maximum_confidence_error": 1.2516975402832031e-06,
+  "matching_threshold": 0.95,
+  "confidence": 0.25,
+  "nms_iou": 0.7
+}

@@ -1,0 +1,44 @@
+{
+  "frames": 100,
+  "source_fps": 25.0,
+  "unique_track_ids": 5,
+  "incidents": 4,
+  "processing_fps": 18.990561633906275,
+  "inference_ms": 37.18687900065561,
+  "processing_seconds": 5.265773699997226,
+  "encoding_seconds": 0.8629213000021991,
+  "tracker": "bytetrack",
+  "confidence": 0.35,
+  "model": "models/best.pt",
+  "device": "cpu",
+  "zone": [
+    [
+      0.32,
+      0.38
+    ],
+    [
+      0.82,
+      0.38
+    ],
+    [
+      0.95,
+      0.96
+    ],
+    [
+      0.2,
+      0.96
+    ]
+  ],
+  "cooldown_seconds": 5.0,
+  "inference_engine": "pytorch",
+  "inference_imgsz": 320,
+  "cpu_threads": 2,
+  "environment": {
+    "python": "3.12.14",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD",
+    "torch": "2.7.1+cpu",
+    "ultralytics": "8.3.228",
+    "opencv": "4.11.0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "dataset": "SH17 person-only subset",
+  "license": "CC BY-NC-SA 4.0; original photographs also subject to Pexels terms",
+  "source_commit": "2f832c289f9deea063367045ed8230b26e3e7ea9",
+  "annotation_source": "SH17 original human YOLO labels; retain class 0 only",
+  "unavailable_images": [],
+  "images": 120,
+  "instances": 234,
+  "splits": {
+    "test": {
+      "images": 18,
+      "instances": 46,
+      "groups": 5
+    },
+    "val": {
+      "images": 18,
+      "instances": 39,
+      "groups": 5
+    },
+    "train": {
+      "images": 84,
+      "instances": 149,
+      "groups": 23
+    }
+  },
+  "classes": {
+    "0": "person"
+  },
+  "missing_labels": 0,
+  "corrupt_images": 0,
+  "exact_duplicates_removed": 0,
+  "near_duplicate_pairs": 0,
+  "cross_split_group_overlap": 0,
+  "cross_split_exact_duplicates": 0,
+  "dataset_version": "0bf028eba59390ea83a3d79aa443040c8dc94fe963058fd8413aee3d3412f3c5",
+  "grouping": "Conservative inferred shoots: connected source photo IDs <=2000 apart, then pHash distance <=8 merging. Not official camera/session metadata.",
+  "limitations": "Small positive-only still-photo subset. No site/camera IDs; residual undetected scene similarity is possible. Not a production site holdout.",
+  "near_duplicate_pairs_detail": [],
+  "manual_qa": {
+    "reviewed_images": 36,
+    "contact_sheets": [
+      "annotations_00.jpg",
+      "annotations_02.jpg",
+      "annotations_04.jpg"
+    ],
+    "observations": "Reviewed boxes align with visible people. Source labels include heavily cropped people/body portions. Retained as source policy, not corrected by a model."
+  },
+  "class_imbalance": "One class, person. All 120 selected images are positive; no negative-only examples.",
+  "pretraining_overlap": "COCO source overlap not exhaustively audited."
+}

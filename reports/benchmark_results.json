@@ -1,0 +1,92 @@
+{
+  "provenance": {
+    "hardware": {
+      "platform": "Windows-11-10.0.26200-SP0",
+      "processor": "AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD",
+      "logical_cpus": 16,
+      "cpu_name": "AMD Ryzen 7 260 w/ Radeon 780M Graphics"
+    },
+    "versions": {
+      "torch": "2.7.1",
+      "onnxruntime": "1.20.1",
+      "numpy": "2.2.6",
+      "opencv-python": "4.11.0.86"
+    },
+    "pytorch_sha256": "38e56ca53e8a6c50ec319c7b7b3e7ee854e18b102e7e13d82d1cb59112275c9d",
+    "onnx_sha256": "b7f0541fcf66b01e8ac77a697e3196e0870fe68c329c859f178899b29581c019",
+    "dataset_version": "0bf028eba59390ea83a3d79aa443040c8dc94fe963058fd8413aee3d3412f3c5"
+  },
+  "results": {
+    "pytorch": {
+      "average_latency_ms": 36.801154666706374,
+      "median_latency_ms": 35.63969999959227,
+      "p95_latency_ms": 44.05566500536224,
+      "inference_fps": 27.173060439451096,
+      "detection_pipeline_fps": 25.986988643953868,
+      "preprocess_ms": 1.2581959998351522,
+      "postprocess_ms": 0.4214450001260654,
+      "peak_process_ram_mb": 303.08984375,
+      "model_mb": 5.170984268188477,
+      "video_processing_fps": 18.990561633906275,
+      "video_with_final_encoding_fps": 16.316687320874898
+    },
+    "onnxruntime": {
+      "average_latency_ms": 20.031919000078535,
+      "median_latency_ms": 19.16269999492215,
+      "p95_latency_ms": 25.236765002046013,
+      "inference_fps": 49.92032964969954,
+      "detection_pipeline_fps": 46.068069534806774,
+      "preprocess_ms": 1.2563209997218412,
+      "postprocess_ms": 0.41876900009810925,
+      "peak_process_ram_mb": 146.9453125,
+      "model_mb": 9.955275535583496,
+      "video_processing_fps": 27.39703734469425,
+      "video_with_final_encoding_fps": 22.361859112241067
+    }
+  },
+  "prediction_consistency": {
+    "torch_detections": 41,
+    "onnx_detections": 41,
+    "matched_at_iou95": 41,
+    "matched_fraction": 1.0,
+    "mean_matched_iou": 0.9999995512456792,
+    "maximum_confidence_error": 9.238719940185547e-07,
+    "matching_threshold": 0.95,
+    "confidence": 0.25,
+    "nms_iou": 0.7
+  },
+  "onnx_speedup": 1.8371257724515606,
+  "settings": {
+    "imgsz": 320,
+    "threads": 2,
+    "warmup": 10,
+    "repeats": 100,
+    "trials": 3,
+    "batch": 1,
+    "precision": "FP32",
+    "image_names": [
+      "pexels-photo-3831159.jpg",
+      "pexels-photo-3831873.jpg",
+      "pexels-photo-3831890.jpg",
+      "pexels-photo-3957980.jpg",
+      "pexels-photo-3957986.jpg",
+      "pexels-photo-3957989.jpg",
+      "pexels-photo-3957992.jpg",
+      "pexels-photo-6284355.jpg",
+      "pexels-photo-6284895.jpg",
+      "pexels-photo-6284898.jpg",
+      "pexels-photo-6285112.jpg",
+      "pexels-photo-7845067.jpg",
+      "pexels-photo-7845075.jpg",
+      "pexels-photo-7845087.jpg",
+      "pexels-photo-7845232.jpg",
+      "pexels-photo-9875404.jpg",
+      "pexels-photo-9875405.jpg",
+      "pexels-photo-9875406.jpg"
+    ],
+    "preprocessing": "Identical square letterbox, BGR to RGB, FP32 /255, NCHW",
+    "timing": "Model forward excludes loading, warmup, preprocessing and NMS. Detection pipeline adds preprocessing/postprocessing, excludes disk reads.",
+    "memory": "Separate process high-water RSS/Windows peak working set; includes Python, libraries, model, inputs and loading; not model-only memory.",
+    "video": "Includes decode, detection, tracking, annotation and intermediate video write; excludes final H264 encoding, consistent with existing pipeline."
+  }
+}

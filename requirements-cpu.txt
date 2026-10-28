@@ -1,0 +1,7 @@
+# CPU export/runtime additions; install with the core tested requirements.
+onnx==1.17.0
+onnxruntime==1.20.1
+coloredlogs==15.0.1
+flatbuffers==25.2.10
+humanfriendly==10.0
+pyreadline3==3.5.4; platform_system == 'Windows'

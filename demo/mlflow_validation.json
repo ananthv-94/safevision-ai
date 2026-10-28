@@ -1,0 +1,34 @@
+{
+  "mlflow_version": "3.5.1",
+  "installed_distributions": 111,
+  "dependency_issues": [],
+  "runs": [
+    {
+      "output": "demo",
+      "run_id": "b4695f4346b04eb6992e90e960b05074",
+      "status": "FINISHED",
+      "tracker": "bytetrack",
+      "frames": 250.0,
+      "incidents": 3.0,
+      "artifacts_verified": true
+    },
+    {
+      "output": "demo/botsort",
+      "run_id": "4c008760361a434c8c15b7e73ddc4575",
+      "status": "FINISHED",
+      "tracker": "botsort",
+      "frames": 250.0,
+      "incidents": 3.0,
+      "artifacts_verified": true
+    },
+    {
+      "output": "demo/mlflow_demo",
+      "run_id": "e2cba3c6b72c466489ff083754cbf3bb",
+      "status": "FINISHED",
+      "tracker": "bytetrack",
+      "frames": 250.0,
+      "incidents": 3.0,
+      "artifacts_verified": true
+    }
+  ]
+}

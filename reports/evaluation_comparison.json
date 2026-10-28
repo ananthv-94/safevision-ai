@@ -1,0 +1,130 @@
+{
+  "pretrained": {
+    "precision": 0.8682512411638887,
+    "recall": 0.8597103956856874,
+    "f1": 0.8639597108839935,
+    "map50": 0.8848679994998789,
+    "map50_95": 0.685918407048099,
+    "speed_ms": {
+      "preprocess": 0.36627222248676444,
+      "inference": 47.81827222339214,
+      "loss": 0.001488888503647306,
+      "postprocess": 1.5217666663779204
+    },
+    "per_class": [
+      {
+        "class_id": 0,
+        "name": "person",
+        "precision": 0.8682512411638887,
+        "recall": 0.8597103956856874,
+        "ap50": 0.8848679994998789,
+        "ap50_95": 0.685918407048099
+      }
+    ],
+    "settings": {
+      "split": "test",
+      "imgsz": 320,
+      "batch": 1,
+      "device": "cpu",
+      "candidate_confidence": 0.001,
+      "nms_iou": 0.7,
+      "map_iou_thresholds": [
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95
+      ],
+      "precision_recall_operating_point": "Ultralytics validation maximum smoothed F1 point; not confidence .001",
+      "confusion_matrix": {
+        "confidence": 0.25,
+        "matching_iou": 0.45,
+        "note": "Ultralytics plot defaults, separate from AP and NMS"
+      },
+      "matching": "Official one-to-one IoU matching at 0.50 through 0.95",
+      "confidence_at_maximum_f1": 0.3203203203203203
+    },
+    "fixed_confidence_iou50": {
+      "confidence": 0.25,
+      "matching_iou": 0.5,
+      "nms_iou": 0.7,
+      "tp": 39,
+      "fp": 7,
+      "fn": 7,
+      "precision": 0.8478260869565217,
+      "recall": 0.8478260869565217,
+      "f1": 0.8478260869565218,
+      "mean_matched_iou": 0.8744267255964306,
+      "preprocessing": "Square letterbox, same as engine benchmark; separate fixed-threshold analysis"
+    }
+  },
+  "fine_tuned": {
+    "precision": 0.7319073171767428,
+    "recall": 0.7122762463948387,
+    "f1": 0.7219583572856908,
+    "map50": 0.7352417155340123,
+    "map50_95": 0.4629119273503523,
+    "speed_ms": {
+      "preprocess": 0.3346388891966651,
+      "inference": 41.49835555573292,
+      "loss": 0.001388886933758234,
+      "postprocess": 1.1870222216303874
+    },
+    "per_class": [
+      {
+        "class_id": 0,
+        "name": "person",
+        "precision": 0.7319073171767428,
+        "recall": 0.7122762463948387,
+        "ap50": 0.7352417155340123,
+        "ap50_95": 0.4629119273503523
+      }
+    ],
+    "settings": {
+      "split": "test",
+      "imgsz": 320,
+      "batch": 1,
+      "device": "cpu",
+      "candidate_confidence": 0.001,
+      "nms_iou": 0.7,
+      "map_iou_thresholds": [
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95
+      ],
+      "precision_recall_operating_point": "Ultralytics validation maximum smoothed F1 point; not confidence .001",
+      "confusion_matrix": {
+        "confidence": 0.25,
+        "matching_iou": 0.45,
+        "note": "Ultralytics plot defaults, separate from AP and NMS"
+      },
+      "matching": "Official one-to-one IoU matching at 0.50 through 0.95",
+      "confidence_at_maximum_f1": 0.2822822822822823
+    },
+    "fixed_confidence_iou50": {
+      "confidence": 0.25,
+      "matching_iou": 0.5,
+      "nms_iou": 0.7,
+      "tp": 33,
+      "fp": 8,
+      "fn": 13,
+      "precision": 0.8048780487804879,
+      "recall": 0.717391304347826,
+      "f1": 0.7586206896551724,
+      "mean_matched_iou": 0.8303505887675504,
+      "preprocessing": "Square letterbox, same as engine benchmark; separate fixed-threshold analysis"
+    }
+  }
+}

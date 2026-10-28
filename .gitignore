@@ -1,0 +1,39 @@
+.venv/
+__pycache__/
+.pytest_cache/
+Ultralytics/
+.cache/
+runs/
+*.pt
+*.onnx
+demo/warehouse.mp4
+
+mlruns/
+mlartifacts/
+
+# Datasets
+datasets/safevision/images/
+datasets/safevision/labels/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Additional generated files
+*.pyc
+.streamlit/secrets.toml
+
+# Dataset annotation previews
+datasets/safevision/visualizations/
+
+# Generated training batch images
+training/**/train_batch*.jpg
+training/**/val_batch*.jpg
+
+# Generated evaluation batch images
+reports/evaluation/**/val_batch*.jpg
+
+# Generated annotated videos
+demo/**/annotated.mp4
+reports/**/annotated.mp4

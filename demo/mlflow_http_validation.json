@@ -1,0 +1,8 @@
+{
+  "/health": 200,
+  "/version": 200,
+  "/": 200,
+  "experiment_search": 200,
+  "run_search": 200,
+  "visible_runs": 3
+}

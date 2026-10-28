@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "blocked_imports": [
+    "torch",
+    "ultralytics"
+  ],
+  "provider": "CPUExecutionProvider",
+  "image": "datasets\\safevision\\images\\test\\pexels-photo-3831159.jpg"
+}

@@ -1,0 +1,3560 @@
+[
+  {
+    "group": "9875404",
+    "photo_id": 9875404,
+    "source_url": "https://images.pexels.com/photos/9875404/pexels-photo-9875404.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-9875404.txt?datasetVersionNumber=1",
+    "source_label_sha256": "252078ae81eced0413ddb48757a478aaa4dd04bed6bf3a57d6738203f3cdb88a",
+    "boxes": [
+      [
+        0,
+        0.42906,
+        0.563871,
+        0.424002,
+        0.6298949999999999
+      ]
+    ],
+    "stem": "pexels-photo-9875404",
+    "image_sha256": "c287f2d0ab4d24eb4bbd41d9b437c564748c289bebb4a693cc7bbd2b55ee55b7",
+    "height": 960,
+    "width": 720,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-9875404.jpg",
+    "image_file_sha256": "81e52e7124162562765eb01fa70c238868c4fd7a61759e31109a99777ecb7645"
+  },
+  {
+    "group": "9875404",
+    "photo_id": 9875405,
+    "source_url": "https://images.pexels.com/photos/9875405/pexels-photo-9875405.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-9875405.txt?datasetVersionNumber=1",
+    "source_label_sha256": "bd7506eab3ff59486b037217f54e1fbe99a38b3ebfb96093cead9a2ccdea82d1",
+    "boxes": [
+      [
+        0,
+        0.304784,
+        0.396605,
+        0.353009,
+        0.5324069999999999
+      ]
+    ],
+    "stem": "pexels-photo-9875405",
+    "image_sha256": "4d56f3f73f93bc9bb9a31a7d300f450f8dd74f6ffe316c664690f1dece02da02",
+    "height": 720,
+    "width": 960,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-9875405.jpg",
+    "image_file_sha256": "83e051c2fde654bca41ba582688851fdfd6472e1be81bb5efb1847efb2df0447"
+  },
+  {
+    "group": "9875404",
+    "photo_id": 9875406,
+    "source_url": "https://images.pexels.com/photos/9875406/pexels-photo-9875406.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-9875406.txt?datasetVersionNumber=1",
+    "source_label_sha256": "0a2c747964cbb51a9b65347aff35794542fb78abacbf90edf971e68fedf57f73",
+    "boxes": [
+      [
+        0,
+        0.529064,
+        0.491416,
+        0.403807,
+        0.31037799999999993
+      ]
+    ],
+    "stem": "pexels-photo-9875406",
+    "image_sha256": "0ba19fc74defdcc5cd493876374b50fefe110c9a20040340a67cb8d9625fed5b",
+    "height": 960,
+    "width": 720,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-9875406.jpg",
+    "image_file_sha256": "a987e4789ae4dfbd9d0ec622da8538ada6e17014e169f8561924047beb823895"
+  },
+  {
+    "group": "3831159",
+    "photo_id": 3831159,
+    "source_url": "https://images.pexels.com/photos/3831159/pexels-photo-3831159.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3831159.txt?datasetVersionNumber=1",
+    "source_label_sha256": "bf077d7607292123c4b42de903a7eb98c2842c8aa916b2714123d8707bb7c63b",
+    "boxes": [
+      [
+        0,
+        0.486493,
+        0.520435,
+        0.617716,
+        0.95913
+      ]
+    ],
+    "stem": "pexels-photo-3831159",
+    "image_sha256": "cc73b30f34e9becb0804dce77bb968f1e8c32cadd823d6931b1e68ff12f76cd8",
+    "height": 631,
+    "width": 960,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-3831159.jpg",
+    "image_file_sha256": "503ba254ed514d0b60a26e715e1781c6d25138973b8cc3991dba4dcbc340b184"
+  },
+  {
+    "group": "3831159",
+    "photo_id": 3831873,
+    "source_url": "https://images.pexels.com/photos/3831873/pexels-photo-3831873.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3831873.txt?datasetVersionNumber=1",
+    "source_label_sha256": "44f9d238b378f29d69225cb67eac1125f44c7672e4c926ae0248e0cbcd1a0d64",
+    "boxes": [
+      [
+        0,
+        0.59349,
+        0.598828,
+        0.32369800000000004,
+        0.7546869999999999
+      ]
+    ],
+    "stem": "pexels-photo-3831873",
+    "image_sha256": "7d4fc2d3313ee252efed6b6cd64240525efd7fef290238c5fe3e6c9a744581bb",
+    "height": 640,
+    "width": 960,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-3831873.jpg",
+    "image_file_sha256": "1b389bd426ad7edaac1498e60126998ffb097d63c5a7567f91588a945b4da403"
+  },
+  {
+    "group": "3831159",
+    "photo_id": 3831890,
+    "source_url": "https://images.pexels.com/photos/3831890/pexels-photo-3831890.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3831890.txt?datasetVersionNumber=1",
+    "source_label_sha256": "ede94c8f778758d032b54d51d02dc0573e5456f5be1f37c4e6b45c364238f2aa",
+    "boxes": [
+      [
+        0,
+        0.320802,
+        0.436157,
+        0.328878,
+        0.470712
+      ],
+      [
+        0,
+        0.670356,
+        0.520965,
+        0.36076299999999994,
+        0.770122
+      ]
+    ],
+    "stem": "pexels-photo-3831890",
+    "image_sha256": "eba9620723b4f19f556baed4f8427c828e654289742d589ee152f2dd74849efb",
+    "height": 634,
+    "width": 960,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-3831890.jpg",
+    "image_file_sha256": "07f747186a52cddabae07e74694aba638a0da94815d4cb4407a1af4a2fcec289"
+  },
+  {
+    "group": "6284355",
+    "photo_id": 6284355,
+    "source_url": "https://images.pexels.com/photos/6284355/pexels-photo-6284355.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6284355.txt?datasetVersionNumber=1",
+    "source_label_sha256": "9d262953e0947819afae5528ec1a121bf56ca9339c9483048dab0637befcf4e1",
+    "boxes": [
+      [
+        0,
+        0.505939,
+        0.502878,
+        0.988121,
+        0.994243
+      ]
+    ],
+    "stem": "pexels-photo-6284355",
+    "image_sha256": "ca5a4caf2eb85ff9d7557367acadd1c09ab54663406772c26b2cd0aeee47affb",
+    "height": 640,
+    "width": 960,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-6284355.jpg",
+    "image_file_sha256": "ba436b1153b050e14e041ddf9be4b1e1090d45077d831638398b85e2d39f4d6f"
+  },
+  {
+    "group": "6284355",
+    "photo_id": 6284895,
+    "source_url": "https://images.pexels.com/photos/6284895/pexels-photo-6284895.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6284895.txt?datasetVersionNumber=1",
+    "source_label_sha256": "8bb333a2781f471b4e9165be99ed55586b3081fb93d1bea5dc0d615203f25cd1",
+    "boxes": [
+      [
+        0,
+        0.629514,
+        0.56267375,
+        0.32199099999999997,
+        0.8746525
+      ],
+      [
+        0,
+        0.315394,
+        0.58454875,
+        0.28449099999999994,
+        0.8309025
+      ]
+    ],
+    "stem": "pexels-photo-6284895",
+    "image_sha256": "5a7454a7cef111e5a09b797ab266d10b6853ce2d70a2708ba41c1460183fc219",
+    "height": 640,
+    "width": 960,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-6284895.jpg",
+    "image_file_sha256": "1b2df464bbce14e30766a1246365083548c3faaa50f112268faab3fafe347746"
+  },
+  {
+    "group": "6284355",
+    "photo_id": 6284898,
+    "source_url": "https://images.pexels.com/photos/6284898/pexels-photo-6284898.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6284898.txt?datasetVersionNumber=1",
+    "source_label_sha256": "3a9b560534caf0f4226beb579af47f499a2b613a6fbac42c13f301c2beba201d",
+    "boxes": [
+      [
+        0,
+        0.726389,
+        0.37743099999999996,
+        0.333796,
+        0.601389
+      ],
+      [
+        0,
+        0.30335599999999996,
+        0.60017375,
+        0.519676,
+        0.7996525
+      ]
+    ],
+    "stem": "pexels-photo-6284898",
+    "image_sha256": "db4c591f512c5728152fbaf42a18d4072bc9d68f14a13f2fd8aea2d8f1923501",
+    "height": 640,
+    "width": 960,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-6284898.jpg",
+    "image_file_sha256": "ceb87a2e9ee8d7232f98938f16adf17e6cfdf8c287b63d1b81bbfdc4efeb4b7e"
+  },
+  {
+    "group": "6284355",
+    "photo_id": 6285112,
+    "source_url": "https://images.pexels.com/photos/6285112/pexels-photo-6285112.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6285112.txt?datasetVersionNumber=1",
+    "source_label_sha256": "783f4df1ff2e12416276a832c4b46c49a032cdc78da82745907f225073231a22",
+    "boxes": [
+      [
+        0,
+        0.435938,
+        0.544618,
+        0.770833,
+        0.9107639999999999
+      ]
+    ],
+    "stem": "pexels-photo-6285112",
+    "image_sha256": "ceb31bb2638b1aa0c4fcc93266ec6abc7b46562365a2bafe2ef6275e289c047d",
+    "height": 960,
+    "width": 640,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-6285112.jpg",
+    "image_file_sha256": "0ab6f7e0afe70888d1210611020c9224b2bce73d1a9f48c35737d53e1007aa4b"
+  },
+  {
+    "group": "7845067",
+    "photo_id": 7845067,
+    "source_url": "https://images.pexels.com/photos/7845067/pexels-photo-7845067.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7845067.txt?datasetVersionNumber=1",
+    "source_label_sha256": "51330fa935c5a5b3aec27cd39c82febc6eacacf7d17d98a60dc5e57a17f585c4",
+    "boxes": [
+      [
+        0,
+        0.815014,
+        0.690436,
+        0.23762700000000003,
+        0.619127
+      ],
+      [
+        0,
+        0.517794,
+        0.529608,
+        0.26116800000000007,
+        0.3197110000000001
+      ],
+      [
+        0,
+        0.215385,
+        0.541423,
+        0.09119599999999997,
+        0.163192
+      ],
+      [
+        0,
+        0.11798,
+        0.550042,
+        0.08915699999999999,
+        0.15262700000000007
+      ]
+    ],
+    "stem": "pexels-photo-7845067",
+    "image_sha256": "3d709100d3d7ade9572338bb5c6f40c39fa8444656223e97a9a8a371ccfb6e7b",
+    "height": 640,
+    "width": 960,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-7845067.jpg",
+    "image_file_sha256": "4d35adb52c7bcc245e423c6e6d6cf7aaa07aebd9eb47af7fb5078164875d777a"
+  },
+  {
+    "group": "7845067",
+    "photo_id": 7845075,
+    "source_url": "https://images.pexels.com/photos/7845075/pexels-photo-7845075.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7845075.txt?datasetVersionNumber=1",
+    "source_label_sha256": "b1a8508c5a88568d48f624ddacf7fd572627bfd7eed99adff7fef05e6044945b",
+    "boxes": [
+      [
+        0,
+        0.490603,
+        0.562333,
+        0.22035000000000005,
+        0.3445929999999999
+      ],
+      [
+        0,
+        0.252511,
+        0.571446,
+        0.07145199999999999,
+        0.1338999999999999
+      ],
+      [
+        0,
+        0.322505,
+        0.563183,
+        0.08149700000000004,
+        0.15334099999999995
+      ],
+      [
+        0,
+        0.837006,
+        0.63900375,
+        0.283215,
+        0.7219925
+      ]
+    ],
+    "stem": "pexels-photo-7845075",
+    "image_sha256": "2a8a4cefdddb1c16906d65b4e061bd7ea4e7961b06a76ae6168e7ef8b27f13be",
+    "height": 640,
+    "width": 960,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-7845075.jpg",
+    "image_file_sha256": "2490b9662201b6cb9ae7c74688c96478c8c3134efd2377c3fd86f0f49c36ea28"
+  },
+  {
+    "group": "7845067",
+    "photo_id": 7845087,
+    "source_url": "https://images.pexels.com/photos/7845087/pexels-photo-7845087.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7845087.txt?datasetVersionNumber=1",
+    "source_label_sha256": "ae4017866a12eb35de6bc94e4ed8ef72c06e4557dd82d88d7e4b1f5499369680",
+    "boxes": [
+      [
+        0,
+        0.664258,
+        0.57132675,
+        0.33994900000000006,
+        0.8573465
+      ]
+    ],
+    "stem": "pexels-photo-7845087",
+    "image_sha256": "0917da11de0fc0493dd392572e0a9a29449d1ef1a83721e7ae23987a6acbd8c5",
+    "height": 640,
+    "width": 960,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-7845087.jpg",
+    "image_file_sha256": "641eabe3a13410e3abde14ce92e991c5be7b52a0397665e81c777a0bf9ae3492"
+  },
+  {
+    "group": "7845067",
+    "photo_id": 7845232,
+    "source_url": "https://images.pexels.com/photos/7845232/pexels-photo-7845232.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7845232.txt?datasetVersionNumber=1",
+    "source_label_sha256": "1fa83838e6c930797a10d52c66dd4caf08a9d7a84ab24e6c1e9c39b275dc88b3",
+    "boxes": [
+      [
+        0,
+        0.168097,
+        0.658788,
+        0.278783,
+        0.6754040000000001
+      ],
+      [
+        0,
+        0.816927,
+        0.683127,
+        0.2435259999999999,
+        0.619237
+      ],
+      [
+        0,
+        0.656396,
+        0.552188,
+        0.0978159999999999,
+        0.17528699999999997
+      ],
+      [
+        0,
+        0.331357,
+        0.547742,
+        0.08830000000000005,
+        0.17903099999999994
+      ]
+    ],
+    "stem": "pexels-photo-7845232",
+    "image_sha256": "51c0d2a61b9dbac865e22212f2419fa759bc5d03b0a2c5fdc5f133b6503b65e9",
+    "height": 640,
+    "width": 960,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-7845232.jpg",
+    "image_file_sha256": "7ec84f81d6ccbcb91d20a9ed611ca541c07305baf437cf2a1be0bfdb5be7c084"
+  },
+  {
+    "group": "3957980",
+    "photo_id": 3957980,
+    "source_url": "https://images.pexels.com/photos/3957980/pexels-photo-3957980.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3957980.txt?datasetVersionNumber=1",
+    "source_label_sha256": "d1281bb0568fce99c2bdea95f6161ea0809865727a0f5c63010d03cacddb7e2d",
+    "boxes": [
+      [
+        0,
+        0.835044,
+        0.719071,
+        0.32991100000000007,
+        0.561858
+      ],
+      [
+        0,
+        0.5705,
+        0.751668,
+        0.20876099999999997,
+        0.4966630000000001
+      ],
+      [
+        0,
+        0.333504,
+        0.753208,
+        0.4069130000000001,
+        0.4935829999999999
+      ],
+      [
+        0,
+        0.128337,
+        0.664656,
+        0.24401100000000003,
+        0.670688
+      ],
+      [
+        0,
+        0.514802,
+        0.472023,
+        0.10763199999999995,
+        0.301848
+      ]
+    ],
+    "stem": "pexels-photo-3957980",
+    "image_sha256": "181c2d40825dcdb546add6573e6f2f42785292c8801dda6029ed5a6c6532cf20",
+    "height": 640,
+    "width": 960,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-3957980.jpg",
+    "image_file_sha256": "92715b6478a54f9a3adb3520340253a89fa6d1bcd823b7736991cd5e0c5ad8b2"
+  },
+  {
+    "group": "3957980",
+    "photo_id": 3957986,
+    "source_url": "https://images.pexels.com/photos/3957986/pexels-photo-3957986.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3957986.txt?datasetVersionNumber=1",
+    "source_label_sha256": "e0a8ab9eab7e8ee5a931cea0b1cf9c27651a9ff0e9fad85cb3ec75b8f997c27e",
+    "boxes": [
+      [
+        0,
+        0.440624,
+        0.665579,
+        0.577625,
+        0.660377
+      ],
+      [
+        0,
+        0.18712,
+        0.65579275,
+        0.373711,
+        0.6884145
+      ],
+      [
+        0,
+        0.670458,
+        0.393758,
+        0.3496429999999999,
+        0.39005499999999993
+      ],
+      [
+        0,
+        0.83020375,
+        0.62511,
+        0.33959249999999996,
+        0.7497799999999999
+      ],
+      [
+        0,
+        0.48029600000000006,
+        0.251807,
+        0.21740300000000007,
+        0.21230799999999997
+      ]
+    ],
+    "stem": "pexels-photo-3957986",
+    "image_sha256": "f9821f98348aac0d8563ecb59660d4a1da954e6be6b58a4e40ab42f3785e6b1d",
+    "height": 960,
+    "width": 640,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-3957986.jpg",
+    "image_file_sha256": "e2e40a90e80fd1f0481c6a0ba3cfb49eae1b3e5a186eb573f13dd4e130984012"
+  },
+  {
+    "group": "3957980",
+    "photo_id": 3957989,
+    "source_url": "https://images.pexels.com/photos/3957989/pexels-photo-3957989.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3957989.txt?datasetVersionNumber=1",
+    "source_label_sha256": "8333269a777888bba2abf79ef1dfeebf0cf7c2644ebd7837cc2e9914677b83d5",
+    "boxes": [
+      [
+        0,
+        0.237719,
+        0.52344775,
+        0.475094,
+        0.9531045
+      ],
+      [
+        0,
+        0.780058,
+        0.7090957499999999,
+        0.3316730000000001,
+        0.5818085000000001
+      ],
+      [
+        0,
+        0.520611,
+        0.734089,
+        0.24390200000000006,
+        0.531822
+      ],
+      [
+        0,
+        0.162229,
+        0.651121,
+        0.25541099999999994,
+        0.6977580000000001
+      ],
+      [
+        0,
+        0.472518,
+        0.4835090000000001,
+        0.10408799999999996,
+        0.30533400000000005
+      ]
+    ],
+    "stem": "pexels-photo-3957989",
+    "image_sha256": "4597e989ab1ff0070787e56d89f1e84ce4637590713d74cc98d6e77e3859ba1d",
+    "height": 640,
+    "width": 960,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-3957989.jpg",
+    "image_file_sha256": "a775b95b0390b47c000565b42c5b7582be738252a12aac87e566571ac3416e00"
+  },
+  {
+    "group": "3957980",
+    "photo_id": 3957992,
+    "source_url": "https://images.pexels.com/photos/3957992/pexels-photo-3957992.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3957992.txt?datasetVersionNumber=1",
+    "source_label_sha256": "a8bd6e0c68e5855f26a57aa5f135c411cbed7f59f9190e99909ab8c57d4b6ee2",
+    "boxes": [
+      [
+        0,
+        0.42452,
+        0.694143,
+        0.334063,
+        0.6117140000000001
+      ],
+      [
+        0,
+        0.22080099999999997,
+        0.679879,
+        0.320094,
+        0.640242
+      ],
+      [
+        0,
+        0.587428,
+        0.508584,
+        0.250926,
+        0.6445339999999999
+      ],
+      [
+        0,
+        0.752861,
+        0.504039,
+        0.319253,
+        0.423883
+      ],
+      [
+        0,
+        0.484769,
+        0.277708,
+        0.11730100000000004,
+        0.31456699999999993
+      ]
+    ],
+    "stem": "pexels-photo-3957992",
+    "image_sha256": "da9320d9d6f02cfa5dcdae920cfa0b12d4ac35099494f4fe11353cca54874ef4",
+    "height": 640,
+    "width": 960,
+    "split": "test",
+    "image_file": "images/test/pexels-photo-3957992.jpg",
+    "image_file_sha256": "db9028ed94f81368ac0f90e589db4ff3ccbbba811408196797d93b26a56fbe05"
+  },
+  {
+    "group": "12899026",
+    "photo_id": 12899026,
+    "source_url": "https://images.pexels.com/photos/12899026/pexels-photo-12899026.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-12899026.txt?datasetVersionNumber=1",
+    "source_label_sha256": "a5bbe48664aca351cc76f3711e52742bdbdbc8a6aa3080419d2287f56ff75aeb",
+    "boxes": [
+      [
+        0,
+        0.44925000000000004,
+        0.56341675,
+        0.5885,
+        0.8731665000000001
+      ]
+    ],
+    "stem": "pexels-photo-12899026",
+    "image_sha256": "a6176b7bab8887804122bb8b06a33bd7b921e5877875b808a23b97e3c0d4898d",
+    "height": 960,
+    "width": 640,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-12899026.jpg",
+    "image_file_sha256": "c8831824065c94d57e9dfc4f3c0df3d2a3f2f650e23c6a77013aeb0d31e80418"
+  },
+  {
+    "group": "12899026",
+    "photo_id": 12899081,
+    "source_url": "https://images.pexels.com/photos/12899081/pexels-photo-12899081.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-12899081.txt?datasetVersionNumber=1",
+    "source_label_sha256": "0e60c4879cadf23571fbce86480b50b91e3f22df0a54587100269fb435653c1b",
+    "boxes": [
+      [
+        0,
+        0.37949999999999995,
+        0.405083,
+        0.524,
+        0.546833
+      ]
+    ],
+    "stem": "pexels-photo-12899081",
+    "image_sha256": "30f5d25d299efe0481105edae6e4e2e3b0173bae0eece1ebc85a8dbfde77da77",
+    "height": 960,
+    "width": 640,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-12899081.jpg",
+    "image_file_sha256": "af73eacc049bd471d53eb397530ee502adcd0973a168907635b9acbc37bf6a0e"
+  },
+  {
+    "group": "12899026",
+    "photo_id": 12899084,
+    "source_url": "https://images.pexels.com/photos/12899084/pexels-photo-12899084.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-12899084.txt?datasetVersionNumber=1",
+    "source_label_sha256": "694170c012ac45108748b0ba87fca0abf4f525dd46c3ce3ee07f8e5b2d8f52f9",
+    "boxes": [
+      [
+        0,
+        0.360625,
+        0.528917,
+        0.72125,
+        0.6105
+      ]
+    ],
+    "stem": "pexels-photo-12899084",
+    "image_sha256": "37bfb52104ca2972905da9a1941d2a2e9d63df37157b200981eb8ca951d62462",
+    "height": 960,
+    "width": 640,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-12899084.jpg",
+    "image_file_sha256": "02ea2afec596e57c715732535b35232b9a7992b291d1dec6945de8d809e05e51"
+  },
+  {
+    "group": "6158566",
+    "photo_id": 6158566,
+    "source_url": "https://images.pexels.com/photos/6158566/pexels-photo-6158566.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6158566.txt?datasetVersionNumber=1",
+    "source_label_sha256": "389e6681655a40d063e95e7e35a354211b2871fecdb70647e93043ad6b36b8c4",
+    "boxes": [
+      [
+        0,
+        0.688465,
+        0.498264,
+        0.42245399999999994,
+        0.612847
+      ]
+    ],
+    "stem": "pexels-photo-6158566",
+    "image_sha256": "f47dc046209b6384f7c24ec24bb232a59924cb98c30e40f348ddac052c33d9e9",
+    "height": 640,
+    "width": 960,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-6158566.jpg",
+    "image_file_sha256": "e645bff366de4e5a9fef99830866747e4fd22b4a5e55aaeb6dbaca65d21b5709"
+  },
+  {
+    "group": "6158566",
+    "photo_id": 6158868,
+    "source_url": "https://images.pexels.com/photos/6158868/pexels-photo-6158868.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6158868.txt?datasetVersionNumber=1",
+    "source_label_sha256": "775b4d057f4422985bd291c669a0b80ef09b802437858e6d5ee69853b4b6620d",
+    "boxes": [
+      [
+        0,
+        0.21610399999999996,
+        0.339658,
+        0.20271199999999998,
+        0.204117
+      ],
+      [
+        0,
+        0.416501,
+        0.334449,
+        0.25959,
+        0.20709299999999997
+      ],
+      [
+        0,
+        0.658069,
+        0.328125,
+        0.23544999999999994,
+        0.229167
+      ],
+      [
+        0,
+        0.868221,
+        0.340278,
+        0.20337300000000003,
+        0.21626999999999996
+      ]
+    ],
+    "stem": "pexels-photo-6158868",
+    "image_sha256": "40edece38c446a2fe62b0b618217fb47164b744ef2863434a7603519db0c7c87",
+    "height": 960,
+    "width": 720,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-6158868.jpg",
+    "image_file_sha256": "175e538768e52919214ec9d77c20d0a875fa648fb569fafa9f9db6dfd0adcb4c"
+  },
+  {
+    "group": "6158566",
+    "photo_id": 6158914,
+    "source_url": "https://images.pexels.com/photos/6158914/pexels-photo-6158914.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6158914.txt?datasetVersionNumber=1",
+    "source_label_sha256": "02c3d595525fefa8efd7380ad4832ada1272a42b4d22975d256f5e0577e2318a",
+    "boxes": [
+      [
+        0,
+        0.725586,
+        0.408333,
+        0.06289100000000003,
+        0.15833299999999995
+      ],
+      [
+        0,
+        0.32793,
+        0.438802,
+        0.08867199999999997,
+        0.15052099999999996
+      ],
+      [
+        0,
+        0.966406,
+        0.528125,
+        0.06718699999999989,
+        0.359375
+      ]
+    ],
+    "stem": "pexels-photo-6158914",
+    "image_sha256": "1f13bee74cf1963cdb6573b03faf975c52d301620a477a2b4f17a6a021e8036a",
+    "height": 720,
+    "width": 960,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-6158914.jpg",
+    "image_file_sha256": "3449fa0b8027b53646fb290e535b675d5ad9dcb7950d5b91c0bcc356a390e7a6"
+  },
+  {
+    "group": "8111886",
+    "photo_id": 8111886,
+    "source_url": "https://images.pexels.com/photos/8111886/pexels-photo-8111886.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-8111886.txt?datasetVersionNumber=1",
+    "source_label_sha256": "acdf0d5526b61d983a52163ed80478f0cb9e41a4b0580d1a020536698f89e046",
+    "boxes": [
+      [
+        0,
+        0.194149,
+        0.49439725,
+        0.388298,
+        0.9887945
+      ]
+    ],
+    "stem": "pexels-photo-8111886",
+    "image_sha256": "4d77ce02bfb10f8091c7d68087f210856e0bd3b09b0b1590e5d9a826eebd5db8",
+    "height": 641,
+    "width": 960,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-8111886.jpg",
+    "image_file_sha256": "609ca5fe52b8ce066738eb38d22bbbf91ce2f50cf1094a0c4b1bcb9371c5cdba"
+  },
+  {
+    "group": "8111886",
+    "photo_id": 8113500,
+    "source_url": "https://images.pexels.com/photos/8113500/pexels-photo-8113500.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-8113500.txt?datasetVersionNumber=1",
+    "source_label_sha256": "20a3dc0135049b45024be8ea4270159579429386c4fff3b38604d8df73296796",
+    "boxes": [
+      [
+        0,
+        0.638917,
+        0.568375,
+        0.376833,
+        0.8587499999999999
+      ]
+    ],
+    "stem": "pexels-photo-8113500",
+    "image_sha256": "3093afcbeb18f5e00d5aab4842f1e6d7e46115d97de83ff8dcebbda6665224b3",
+    "height": 640,
+    "width": 960,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-8113500.jpg",
+    "image_file_sha256": "2e8d2d9dd7df33db6f512360620d432eeac5911e7fd8ea5843a48f22ab64ef68"
+  },
+  {
+    "group": "8111886",
+    "photo_id": 8113540,
+    "source_url": "https://images.pexels.com/photos/8113540/pexels-photo-8113540.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-8113540.txt?datasetVersionNumber=1",
+    "source_label_sha256": "38ba23cb3d1099d83efff581c381b8a8751f24b28c2517f980c1e1d625ccb3ee",
+    "boxes": [
+      [
+        0,
+        0.644583,
+        0.516875,
+        0.46583299999999994,
+        0.96625
+      ]
+    ],
+    "stem": "pexels-photo-8113540",
+    "image_sha256": "a0c34c8a91639b7d78d5fe6dbe730da822b76634faca1996fdcc5c9bb24177f1",
+    "height": 640,
+    "width": 960,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-8113540.jpg",
+    "image_file_sha256": "f753aa89a078ab4a96cc26c9b93f3930ea0f83d55c7616fa30ed069e699ec8df"
+  },
+  {
+    "group": "8111886",
+    "photo_id": 8113775,
+    "source_url": "https://images.pexels.com/photos/8113775/pexels-photo-8113775.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-8113775.txt?datasetVersionNumber=1",
+    "source_label_sha256": "7c02a10e7222b1a95a37b7fa914c9987a80574b0f9bbdf3dda0cb499cca427ca",
+    "boxes": [
+      [
+        0,
+        0.5235,
+        0.59975,
+        0.42133299999999996,
+        0.7645
+      ]
+    ],
+    "stem": "pexels-photo-8113775",
+    "image_sha256": "d139c3719f5d3893ec65c6b4e0d932ceb7b3068647bea8c3541f90b208ecd0ce",
+    "height": 640,
+    "width": 960,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-8113775.jpg",
+    "image_file_sha256": "56d5e4473148f0c2da4b25aaa7dc1e404e633f5209cdf54e1fc9ca98298acea0"
+  },
+  {
+    "group": "15806948",
+    "photo_id": 15806948,
+    "source_url": "https://images.pexels.com/photos/15806948/pexels-photo-15806948.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-15806948.txt?datasetVersionNumber=1",
+    "source_label_sha256": "60d7a7075933f0be33c184154be951fee3fa6e334663bc3bc089b26fe581a507",
+    "boxes": [
+      [
+        0,
+        0.53191,
+        0.524575,
+        0.171821,
+        0.39061300000000004
+      ],
+      [
+        0,
+        0.733432,
+        0.600517,
+        0.3048599999999999,
+        0.33555099999999993
+      ],
+      [
+        0,
+        0.627025,
+        0.51663,
+        0.263868,
+        0.40428700000000006
+      ],
+      [
+        0,
+        0.343643,
+        0.542683,
+        0.21207699999999996,
+        0.429786
+      ]
+    ],
+    "stem": "pexels-photo-15806948",
+    "image_sha256": "db0301f5a71cf5fa2afd799ddfe00474f20d0b7c92bd375029e16ab5baeba2b1",
+    "height": 638,
+    "width": 960,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-15806948.jpg",
+    "image_file_sha256": "db1cc6f7986093b5b5029256ab0e051eee34bc5303e6eeed5edb4e3bf4289483"
+  },
+  {
+    "group": "15806948",
+    "photo_id": 15806960,
+    "source_url": "https://images.pexels.com/photos/15806960/pexels-photo-15806960.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-15806960.txt?datasetVersionNumber=1",
+    "source_label_sha256": "4d901428e38d8fd0bc7199c1d5f1a8aa03ec709c4bfdaea83784ea6321ba9c58",
+    "boxes": [
+      [
+        0,
+        0.49633,
+        0.697218,
+        0.17767699999999997,
+        0.605564
+      ],
+      [
+        0,
+        0.234371,
+        0.591082,
+        0.257656,
+        0.5167680000000001
+      ]
+    ],
+    "stem": "pexels-photo-15806960",
+    "image_sha256": "fdbb06617be8d3f2d2f01b72369d83f62bfef0280c058bac0c5bebbd12eacb0c",
+    "height": 638,
+    "width": 960,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-15806960.jpg",
+    "image_file_sha256": "360b3b9f26890f2f758741aba0eb4fdd3b755a360499c6052c30858cc8ad1964"
+  },
+  {
+    "group": "15806948",
+    "photo_id": 15806963,
+    "source_url": "https://images.pexels.com/photos/15806963/pexels-photo-15806963.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-15806963.txt?datasetVersionNumber=1",
+    "source_label_sha256": "ae3d773f4face16df1d40305683995fc2ab7039ae2ff9d35da7766859582c663",
+    "boxes": [
+      [
+        0,
+        0.540943,
+        0.645927,
+        0.13101699999999994,
+        0.658072
+      ],
+      [
+        0,
+        0.683499,
+        0.641629,
+        0.12382099999999996,
+        0.676383
+      ],
+      [
+        0,
+        0.95062,
+        0.524103,
+        0.058561000000000085,
+        0.326233
+      ],
+      [
+        0,
+        0.16005,
+        0.695628,
+        0.179653,
+        0.608744
+      ]
+    ],
+    "stem": "pexels-photo-15806963",
+    "image_sha256": "fb32a7525dd924a2c583d5c4a9e445a64af2fd47f4dda4194686cd34ffe944c0",
+    "height": 637,
+    "width": 960,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-15806963.jpg",
+    "image_file_sha256": "4169245be98ff5542a4ba089ab3dfb9e9e7b9a99daf4eba2518a23e9c9ffb9e0"
+  },
+  {
+    "group": "15806948",
+    "photo_id": 15806970,
+    "source_url": "https://images.pexels.com/photos/15806970/pexels-photo-15806970.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-15806970.txt?datasetVersionNumber=1",
+    "source_label_sha256": "155f79599e7b4febce44424fef88c935f8669ba8d357fe19742528cd40db4ae6",
+    "boxes": [
+      [
+        0,
+        0.336442,
+        0.451206,
+        0.23816400000000001,
+        0.385308
+      ]
+    ],
+    "stem": "pexels-photo-15806970",
+    "image_sha256": "720a1fcaf6326dfb4e647fbdb54c6b272d7b0549b1edff3c7c2151e5c612d7e6",
+    "height": 637,
+    "width": 960,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-15806970.jpg",
+    "image_file_sha256": "780a415f27621e76e3a3f647b673e1eb00e3dd70f85c57de3fc682e4ffed261e"
+  },
+  {
+    "group": "12954040",
+    "photo_id": 12954040,
+    "source_url": "https://images.pexels.com/photos/12954040/pexels-photo-12954040.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-12954040.txt?datasetVersionNumber=1",
+    "source_label_sha256": "0260deeb83596a54a349b40dd06b387e4b4f3762d68d644cb3ddd49bf8e03d12",
+    "boxes": [
+      [
+        0,
+        0.715075,
+        0.748206,
+        0.022926000000000002,
+        0.055679000000000034
+      ],
+      [
+        0,
+        0.805129,
+        0.754145,
+        0.017648000000000108,
+        0.03736699999999993
+      ]
+    ],
+    "stem": "pexels-photo-12954040",
+    "image_sha256": "13165ccc9039829ebed3f84697b45415d10a35cbe05f1dd4d0530433273107e9",
+    "height": 640,
+    "width": 960,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-12954040.jpg",
+    "image_file_sha256": "59299f218bdea56858be3620ff3082360604a7f5b52ecc96a0c8f62d3db284fd"
+  },
+  {
+    "group": "12954040",
+    "photo_id": 12955934,
+    "source_url": "https://images.pexels.com/photos/12955934/pexels-photo-12955934.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-12955934.txt?datasetVersionNumber=1",
+    "source_label_sha256": "236dacac85e1f5a0b7671e58639c0f714c28601d80a9e7879eee0b671dd8ac53",
+    "boxes": [
+      [
+        0,
+        0.719,
+        0.552625,
+        0.4283330000000001,
+        0.8947499999999999
+      ]
+    ],
+    "stem": "pexels-photo-12955934",
+    "image_sha256": "2776da31d17fb94d5c3cf552c7528dc3946503211aadb1b3fcc094140e40d1a5",
+    "height": 640,
+    "width": 960,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-12955934.jpg",
+    "image_file_sha256": "06a068b9159c127a00b04e64f8f72e082999f661e714ec37c1dce7f7d0a6bcf3"
+  },
+  {
+    "group": "12954040",
+    "photo_id": 12956301,
+    "source_url": "https://images.pexels.com/photos/12956301/pexels-photo-12956301.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-12956301.txt?datasetVersionNumber=1",
+    "source_label_sha256": "c722b0142cb8988c11c280c4becff161b651b197427d006a4eaabe6a87e55c7a",
+    "boxes": [
+      [
+        0,
+        0.264583,
+        0.735286,
+        0.12916700000000003,
+        0.3721349999999999
+      ],
+      [
+        0,
+        0.320139,
+        0.748307,
+        0.04930599999999996,
+        0.24088500000000002
+      ],
+      [
+        0,
+        0.286198,
+        0.757552,
+        0.04010400000000003,
+        0.22135400000000005
+      ],
+      [
+        0,
+        0.417622,
+        0.739974,
+        0.05399299999999996,
+        0.25182300000000013
+      ],
+      [
+        0,
+        0.535677,
+        0.595052,
+        0.06996500000000005,
+        0.20104199999999994
+      ],
+      [
+        0,
+        0.592969,
+        0.509245,
+        0.0362849999999999,
+        0.17734399999999995
+      ],
+      [
+        0,
+        0.646615,
+        0.463411,
+        0.04947900000000005,
+        0.14453099999999997
+      ],
+      [
+        0,
+        0.718576,
+        0.401562,
+        0.02777800000000008,
+        0.07083300000000003
+      ]
+    ],
+    "stem": "pexels-photo-12956301",
+    "image_sha256": "1d477ff8be0d965f83e6373a7c36ccb6d1099a1cadb7e299b0614c5e785ddcd6",
+    "height": 640,
+    "width": 960,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-12956301.jpg",
+    "image_file_sha256": "d5146e2ca776b5d15a72c0cd771dc7a30064a285d4f33058f96d5f9cdc1d918b"
+  },
+  {
+    "group": "12954040",
+    "photo_id": 12956302,
+    "source_url": "https://images.pexels.com/photos/12956302/pexels-photo-12956302.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-12956302.txt?datasetVersionNumber=1",
+    "source_label_sha256": "3a12686b40692db5d118940445bd6c430c9f09560194eb3b9bed7db71e4ee46b",
+    "boxes": [
+      [
+        0,
+        0.542622,
+        0.482422,
+        0.172396,
+        0.4361979999999999
+      ],
+      [
+        0,
+        0.705122,
+        0.486328,
+        0.11058999999999997,
+        0.29192700000000005
+      ]
+    ],
+    "stem": "pexels-photo-12956302",
+    "image_sha256": "849f48984c79bb7ba033be09b651f1c29718424ee7d6bb7f7c0759393c982f19",
+    "height": 640,
+    "width": 960,
+    "split": "val",
+    "image_file": "images/val/pexels-photo-12956302.jpg",
+    "image_file_sha256": "bb27098cb2c032d56dd72a40e66ef37a5461a9b99fbb12d0aa746159334afd89"
+  },
+  {
+    "group": "7299613",
+    "photo_id": 7299613,
+    "source_url": "https://images.pexels.com/photos/7299613/pexels-photo-7299613.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7299613.txt?datasetVersionNumber=1",
+    "source_label_sha256": "8f2b2d5110b476edf3858138cbf954d563a0b6de380831c6e236830afe0e1134",
+    "boxes": [
+      [
+        0,
+        0.544857,
+        0.504072,
+        0.23142900000000005,
+        0.7972569999999999
+      ]
+    ],
+    "stem": "pexels-photo-7299613",
+    "image_sha256": "70bfead5947655fa47f523921d27ce6ab5b0d08d01d29de31877228723c9a796",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-7299613.jpg",
+    "image_file_sha256": "f6530baf6bac84d70a31e45e26106b3bd0744def377517c9c99a501a07ab2722"
+  },
+  {
+    "group": "7299613",
+    "photo_id": 7299684,
+    "source_url": "https://images.pexels.com/photos/7299684/pexels-photo-7299684.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7299684.txt?datasetVersionNumber=1",
+    "source_label_sha256": "b2463a20d946339dfce85804e348de392e2acb2970d78684f1ae7254a0d4e93d",
+    "boxes": [
+      [
+        0,
+        0.344429,
+        0.49978600000000006,
+        0.5962859999999999,
+        0.999571
+      ]
+    ],
+    "stem": "pexels-photo-7299684",
+    "image_sha256": "cce8657dbade177cf2a26b12e48aa17a08a79e850d92948066b32b41055e63b3",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-7299684.jpg",
+    "image_file_sha256": "322bc4e7d9c018bc5b3341e6a1e3f7e2932dd01d66b65b20d46cd0f32c9fce85"
+  },
+  {
+    "group": "6322358",
+    "photo_id": 6322358,
+    "source_url": "https://images.pexels.com/photos/6322358/pexels-photo-6322358.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6322358.txt?datasetVersionNumber=1",
+    "source_label_sha256": "7d4ae1ace0e9619256c3890f57b33e35cf123574b467059c426d47770ce699d6",
+    "boxes": [
+      [
+        0,
+        0.426,
+        0.418073,
+        0.29999999999999993,
+        0.56018
+      ],
+      [
+        0,
+        0.632125,
+        0.573678,
+        0.5482499999999999,
+        0.7161600000000001
+      ],
+      [
+        0,
+        0.214125,
+        0.299963,
+        0.23975000000000002,
+        0.599925
+      ]
+    ],
+    "stem": "pexels-photo-6322358",
+    "image_sha256": "0846926caaf6890ff695d86100c6e54acb259ca21ea87df4a9aea7e3921de13c",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-6322358.jpg",
+    "image_file_sha256": "aafc6e0d43ee1173c527c632d3d017b3fa78dc5ce851b9e5dba78a30ef1b389c"
+  },
+  {
+    "group": "6322358",
+    "photo_id": 6322359,
+    "source_url": "https://images.pexels.com/photos/6322359/pexels-photo-6322359.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6322359.txt?datasetVersionNumber=1",
+    "source_label_sha256": "28003b62e5cff6b2c2350f84ac2116d0070b14cc8df68e593b26e8014b99f805",
+    "boxes": [
+      [
+        0,
+        0.737375,
+        0.627583,
+        0.4717499999999999,
+        0.3761669999999999
+      ],
+      [
+        0,
+        0.5735,
+        0.43025,
+        0.34400000000000003,
+        0.430833
+      ],
+      [
+        0,
+        0.28175,
+        0.592417,
+        0.3504999999999999,
+        0.3045
+      ]
+    ],
+    "stem": "pexels-photo-6322359",
+    "image_sha256": "e042ef8d510d4e5dff7478a9dd50c75501a055d4bd94ee9d38c43f9c73691e89",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-6322359.jpg",
+    "image_file_sha256": "3ab444976aa64448cea1a3044e5e0619a4511abe3caeafca8ddfa4e0e90529cb"
+  },
+  {
+    "group": "6322358",
+    "photo_id": 6322365,
+    "source_url": "https://images.pexels.com/photos/6322365/pexels-photo-6322365.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6322365.txt?datasetVersionNumber=1",
+    "source_label_sha256": "aa5425d9ae4f3b8836d31b7362682dca3b2acb346328d33b90d6b4e265ee93fd",
+    "boxes": [
+      [
+        0,
+        0.59925,
+        0.477833,
+        0.6990000000000001,
+        0.522333
+      ]
+    ],
+    "stem": "pexels-photo-6322365",
+    "image_sha256": "0a03a5f4f960e1b045c469e4fc36b8c25ce35ac1cb8c046a614cf0dc16ba3082",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-6322365.jpg",
+    "image_file_sha256": "39f052ca4e8b5bdb6d536c90ac952f50e10e6ed6794a0ba86ed12a709fa8f8dd"
+  },
+  {
+    "group": "6322358",
+    "photo_id": 6322387,
+    "source_url": "https://images.pexels.com/photos/6322387/pexels-photo-6322387.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6322387.txt?datasetVersionNumber=1",
+    "source_label_sha256": "ec2e70aaaca0c7c86f0c3894ed07c4dcaf7d6398760548959a1d4a5d1b10163e",
+    "boxes": [
+      [
+        0,
+        0.29525,
+        0.529621,
+        0.4179999999999999,
+        0.580802
+      ],
+      [
+        0,
+        0.642,
+        0.526622,
+        0.28800000000000003,
+        0.619048
+      ]
+    ],
+    "stem": "pexels-photo-6322387",
+    "image_sha256": "28e634fe19b09d3827797c708e486207f7a2d27022111f3fa1bb670395f972c9",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-6322387.jpg",
+    "image_file_sha256": "ca114bc9af1836edc090480d0d54f87c856eb3af5aedef74654dff2f7ea8d96f"
+  },
+  {
+    "group": "6405662",
+    "photo_id": 6405662,
+    "source_url": "https://images.pexels.com/photos/6405662/pexels-photo-6405662.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6405662.txt?datasetVersionNumber=1",
+    "source_label_sha256": "562c059615963a5f46ace02d37da4475192dde35ae0cb3c8155d7fb7849d6f94",
+    "boxes": [
+      [
+        0,
+        0.3627,
+        0.60816275,
+        0.16233399999999998,
+        0.7836745
+      ],
+      [
+        0,
+        0.09223999999999999,
+        0.666859,
+        0.150972,
+        0.666282
+      ],
+      [
+        0,
+        0.49431900000000006,
+        0.638448,
+        0.15790500000000002,
+        0.723104
+      ],
+      [
+        0,
+        0.606971,
+        0.67464675,
+        0.141729,
+        0.6507065000000001
+      ],
+      [
+        0,
+        0.818217,
+        0.629939,
+        0.26728299999999994,
+        0.740121
+      ],
+      [
+        0,
+        0.728962,
+        0.65287,
+        0.13344899999999993,
+        0.6942600000000001
+      ]
+    ],
+    "stem": "pexels-photo-6405662",
+    "image_sha256": "cc9392ec023e05ddcfd1321bde09a5872e5c2e91aad10996f335ddc268305a04",
+    "height": 641,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-6405662.jpg",
+    "image_file_sha256": "8453222d3458b0d095c8e4054978a1e97c36251081449dd08450873fe5fc2b65"
+  },
+  {
+    "group": "6405662",
+    "photo_id": 6405665,
+    "source_url": "https://images.pexels.com/photos/6405665/pexels-photo-6405665.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6405665.txt?datasetVersionNumber=1",
+    "source_label_sha256": "18d7d11fed3d0b5f2011582bc63727046ba535263aee58aaf8b85daac928cf6c",
+    "boxes": [
+      [
+        0,
+        0.572901,
+        0.659694,
+        0.089561,
+        0.671379
+      ],
+      [
+        0,
+        0.309804,
+        0.636613,
+        0.351888,
+        0.726774
+      ],
+      [
+        0,
+        0.343702,
+        0.708742,
+        0.10689499999999996,
+        0.582516
+      ],
+      [
+        0,
+        0.451464,
+        0.668638,
+        0.12711899999999998,
+        0.6627240000000001
+      ],
+      [
+        0,
+        0.615851,
+        0.645701,
+        0.26675699999999997,
+        0.7085980000000001
+      ],
+      [
+        0,
+        0.80547,
+        0.674986,
+        0.16679500000000003,
+        0.6465669999999999
+      ]
+    ],
+    "stem": "pexels-photo-6405665",
+    "image_sha256": "7de2caa496b174fbb98782ef10802726745af4ea049c2c6c1fb9b3d4eb2228bc",
+    "height": 641,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-6405665.jpg",
+    "image_file_sha256": "4f73977c89824da9cd37538074d91c4f63d5b0e4bafd5a0c4aff86a53bb78040"
+  },
+  {
+    "group": "6405662",
+    "photo_id": 6405670,
+    "source_url": "https://images.pexels.com/photos/6405670/pexels-photo-6405670.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6405670.txt?datasetVersionNumber=1",
+    "source_label_sha256": "4cbad84127888373eb59848d2f785bfe16645158e573d6c34fb73e6bf4fc99f0",
+    "boxes": [
+      [
+        0,
+        0.279854,
+        0.49307600000000007,
+        0.40485399999999994,
+        0.986151
+      ],
+      [
+        0,
+        0.48083600000000004,
+        0.645701,
+        0.15350500000000006,
+        0.7085980000000001
+      ],
+      [
+        0,
+        0.642431,
+        0.70427,
+        0.3322419999999999,
+        0.5914600000000001
+      ]
+    ],
+    "stem": "pexels-photo-6405670",
+    "image_sha256": "8c4bb1a673e334dab21c083153d72ff3fe30b0291ef002e35ecca4f66ffe580e",
+    "height": 641,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-6405670.jpg",
+    "image_file_sha256": "bd5e186c33b56f2c75b5fbfa3a76fdecba30e25cba43da20f033800bef2c33f9"
+  },
+  {
+    "group": "6405662",
+    "photo_id": 6405672,
+    "source_url": "https://images.pexels.com/photos/6405672/pexels-photo-6405672.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6405672.txt?datasetVersionNumber=1",
+    "source_label_sha256": "6062c41ae2db65b2341c2de1745590e682d8ca9ceb5918417eda67dd02ce29cd",
+    "boxes": [
+      [
+        0,
+        0.261845,
+        0.519331,
+        0.18355199999999997,
+        0.8043849999999999
+      ],
+      [
+        0,
+        0.612577,
+        0.513993,
+        0.12538500000000008,
+        0.672533
+      ],
+      [
+        0,
+        0.744029,
+        0.49221,
+        0.14291199999999993,
+        0.793422
+      ],
+      [
+        0,
+        0.408609,
+        0.67830375,
+        0.17661799999999994,
+        0.6433925
+      ]
+    ],
+    "stem": "pexels-photo-6405672",
+    "image_sha256": "20bd651b33cab8e83b96a8a2885ec38d7eba01e3a3e1360c4f720c77a4f885c0",
+    "height": 641,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-6405672.jpg",
+    "image_file_sha256": "5930c73509bbf5e8996e0f4486ae06020e132e71b9c1f5ba4c46f4d3dbb90655"
+  },
+  {
+    "group": "15016481",
+    "photo_id": 15016481,
+    "source_url": "https://images.pexels.com/photos/15016481/pexels-photo-15016481.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-15016481.txt?datasetVersionNumber=1",
+    "source_label_sha256": "54591a8f13ddf16f6c213e04a5a66dc8be91b36f84253f922d67523af9da6787",
+    "boxes": [
+      [
+        0,
+        0.277375,
+        0.777333,
+        0.19274999999999998,
+        0.250667
+      ],
+      [
+        0,
+        0.698375,
+        0.15575,
+        0.07824999999999993,
+        0.227167
+      ]
+    ],
+    "stem": "pexels-photo-15016481",
+    "image_sha256": "53be203869a68fb747349658a42c124d4393fed2cf06be2cfb2c5be682c86e39",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-15016481.jpg",
+    "image_file_sha256": "5c1a3da3d37683dd40f3a20372222352e9ee5425a9f442091ce5a9726681450b"
+  },
+  {
+    "group": "15016481",
+    "photo_id": 15016508,
+    "source_url": "https://images.pexels.com/photos/15016508/pexels-photo-15016508.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-15016508.txt?datasetVersionNumber=1",
+    "source_label_sha256": "3a903ea8010538d2b4b00969d7d8b611c90437451f72a7d505765251b147d37d",
+    "boxes": [
+      [
+        0,
+        0.246932,
+        0.395529,
+        0.143191,
+        0.47603700000000004
+      ]
+    ],
+    "stem": "pexels-photo-15016508",
+    "image_sha256": "43083a2589f7f1fec0559c9eeb460c26352c869322e1145fb92ee8e28cdfea21",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-15016508.jpg",
+    "image_file_sha256": "cb80affdf9dd0fafbb238f41e7c9e6bfc326f1d47c49863580d526d78e406e54"
+  },
+  {
+    "group": "15016481",
+    "photo_id": 15016509,
+    "source_url": "https://images.pexels.com/photos/15016509/pexels-photo-15016509.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-15016509.txt?datasetVersionNumber=1",
+    "source_label_sha256": "53467557b6aad564368d85c165b8d286a0bfb96a120e94402976f5849ecceedf",
+    "boxes": [
+      [
+        0,
+        0.607417,
+        0.524875,
+        0.3065,
+        0.6432500000000001
+      ]
+    ],
+    "stem": "pexels-photo-15016509",
+    "image_sha256": "3e7f9642e5d477789d4e417eb2ea4a40f3b5f5b37c05f6c4407bb457a976c7c5",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-15016509.jpg",
+    "image_file_sha256": "8054f08412d2017ec5a05ef842d77dd3ee5686666b7b84d86c462e94ccf217a6"
+  },
+  {
+    "group": "15016481",
+    "photo_id": 15016516,
+    "source_url": "https://images.pexels.com/photos/15016516/pexels-photo-15016516.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-15016516.txt?datasetVersionNumber=1",
+    "source_label_sha256": "1507ccfcb5c4f623a64d288fec7654d689fd0dd693ffed71af56cec6a835fd97",
+    "boxes": [
+      [
+        0,
+        0.6045,
+        0.590125,
+        0.7909999999999999,
+        0.81975
+      ]
+    ],
+    "stem": "pexels-photo-15016516",
+    "image_sha256": "2bf80a80b73d2c8908251664b4d97f9196a07c78d8391b040bdd2ded0205074b",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-15016516.jpg",
+    "image_file_sha256": "ec89d1ca779826855f08707c6222fdbd9e31da3425acf78b0d4d35acda66365a"
+  },
+  {
+    "group": "13532460",
+    "photo_id": 13532460,
+    "source_url": "https://images.pexels.com/photos/13532460/pexels-photo-13532460.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-13532460.txt?datasetVersionNumber=1",
+    "source_label_sha256": "8cd8cf794d262f1bfd890429460fc4e6f18e50084de81f8b16920165a8f53bc5",
+    "boxes": [
+      [
+        0,
+        0.554148,
+        0.377784,
+        0.06515300000000002,
+        0.15457199999999993
+      ],
+      [
+        0,
+        0.693013,
+        0.384726,
+        0.058864999999999945,
+        0.15221399999999996
+      ]
+    ],
+    "stem": "pexels-photo-13532460",
+    "image_sha256": "4819e3a769e3f0d742439b41464916eab0a7f7fab6da99858476d8ddd5966af9",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-13532460.jpg",
+    "image_file_sha256": "29fed9d31f5bdf49cb2cd97931540f6608f10fc6cbb2fa8a359a591b28ac0e19"
+  },
+  {
+    "group": "13532460",
+    "photo_id": 13532463,
+    "source_url": "https://images.pexels.com/photos/13532463/pexels-photo-13532463.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-13532463.txt?datasetVersionNumber=1",
+    "source_label_sha256": "55415181066355b086d1d7fadf8e3ecf8e0808c1b69421efbf7c2ae638cc2d80",
+    "boxes": [
+      [
+        0,
+        0.512728,
+        0.37881525000000005,
+        0.42857100000000004,
+        0.7576305000000001
+      ]
+    ],
+    "stem": "pexels-photo-13532463",
+    "image_sha256": "da086bea3a193dc606e3f7e761a878412857518919e46f4d0e8e2593c4098838",
+    "height": 603,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-13532463.jpg",
+    "image_file_sha256": "984eda6a19f830d384f95d7564aad855c834627cfb213982b5f02d22b0416a52"
+  },
+  {
+    "group": "13532460",
+    "photo_id": 13532504,
+    "source_url": "https://images.pexels.com/photos/13532504/pexels-photo-13532504.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-13532504.txt?datasetVersionNumber=1",
+    "source_label_sha256": "dc62ac3cce4c269eb7cb518cd59ca23bb730d4626a816e79085b1714826356f7",
+    "boxes": [
+      [
+        0,
+        0.500375,
+        0.439833,
+        0.16274999999999995,
+        0.12333300000000003
+      ]
+    ],
+    "stem": "pexels-photo-13532504",
+    "image_sha256": "245408d71ae76ab81e7a5132f2bdcb202876135751a9224c5ede5e667f3c6a89",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-13532504.jpg",
+    "image_file_sha256": "5a20d1dddaccf88fbeeb0abf8707d90d9c4ce8df90a53976cbea3460cfd43aaf"
+  },
+  {
+    "group": "17410515",
+    "photo_id": 17410515,
+    "source_url": "https://images.pexels.com/photos/17410515/pexels-photo-17410515.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-17410515.txt?datasetVersionNumber=1",
+    "source_label_sha256": "35029dc2629e12f5f5afe4546f47213d3b278f6ffa048566a04b83f726cfafae",
+    "boxes": [
+      [
+        0,
+        0.657114,
+        0.271121,
+        0.19153200000000004,
+        0.31551699999999994
+      ],
+      [
+        0,
+        0.548819,
+        0.728879,
+        0.18289200000000005,
+        0.350862
+      ]
+    ],
+    "stem": "pexels-photo-17410515",
+    "image_sha256": "ff17bea2f8335df99c840e433b81d13b507346a09e0b1fd1d9e85f37dcf845fb",
+    "height": 641,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-17410515.jpg",
+    "image_file_sha256": "1c80db40d4c9e2b3ff30f6e61380423a127e1afe89834a8359ffa047c64950cc"
+  },
+  {
+    "group": "17410515",
+    "photo_id": 17410518,
+    "source_url": "https://images.pexels.com/photos/17410518/pexels-photo-17410518.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-17410518.txt?datasetVersionNumber=1",
+    "source_label_sha256": "243b76da11d6fa825f56b1c1c73752522ce8979c36578a4564d1fc1c269088a9",
+    "boxes": [
+      [
+        0,
+        0.727967,
+        0.334698,
+        0.231279,
+        0.547845
+      ]
+    ],
+    "stem": "pexels-photo-17410518",
+    "image_sha256": "2bb18b4fb9f5757a8deebdf90e01d9102c23efd41ad1f6ce97d06954f5944fce",
+    "height": 641,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-17410518.jpg",
+    "image_file_sha256": "08dc211d2da2a3598a316b0a754063e89325ff4ab8a20029710eb91ecdace460"
+  },
+  {
+    "group": "17410515",
+    "photo_id": 17410693,
+    "source_url": "https://images.pexels.com/photos/17410693/pexels-photo-17410693.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-17410693.txt?datasetVersionNumber=1",
+    "source_label_sha256": "27194dc35edb41bc0658b8129f0a303f844ec646e16748e833a756b431a21993",
+    "boxes": [
+      [
+        0,
+        0.58727,
+        0.393966,
+        0.150922,
+        0.4413790000000001
+      ]
+    ],
+    "stem": "pexels-photo-17410693",
+    "image_sha256": "6ac23c1d2d1fd305a524b46969ce149ea8b6f68551abdb243ef056916abf8cd2",
+    "height": 641,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-17410693.jpg",
+    "image_file_sha256": "9f64bceca31d7112efc52eeb0d5663eeadf2e45b0950ce07565d55cd79557f73"
+  },
+  {
+    "group": "17410515",
+    "photo_id": 17410714,
+    "source_url": "https://images.pexels.com/photos/17410714/pexels-photo-17410714.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-17410714.txt?datasetVersionNumber=1",
+    "source_label_sha256": "6197d1ee5c4c312b6248396617fe20a5562df9922adb3069580aa97e7ee95618",
+    "boxes": [
+      [
+        0,
+        0.421515,
+        0.551509,
+        0.117224,
+        0.44956899999999994
+      ]
+    ],
+    "stem": "pexels-photo-17410714",
+    "image_sha256": "93f3c7aaa2245d23c61ba6fa9e2cc238cb13ae69bf9162ccb8a92606ba6baff1",
+    "height": 641,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-17410714.jpg",
+    "image_file_sha256": "89b0ac6863ef4c451e290ccff914b41d216407a2f78206984abb57b13bf3fcf1"
+  },
+  {
+    "group": "7175950",
+    "photo_id": 7175950,
+    "source_url": "https://images.pexels.com/photos/7175950/pexels-photo-7175950.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7175950.txt?datasetVersionNumber=1",
+    "source_label_sha256": "d8212ec5cd73546b737bd10dc6eda33337f528d81d449f16ce05042bcbb93aec",
+    "boxes": [
+      [
+        0,
+        0.557687,
+        0.566463,
+        0.707376,
+        0.8598700000000001
+      ]
+    ],
+    "stem": "pexels-photo-7175950",
+    "image_sha256": "a804f685b39f7fe6c401eccca0f5e92e21d71670f5706764fa2bbfaf6e512a7b",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-7175950.jpg",
+    "image_file_sha256": "0509f7c6571f4b28f5003c0f63a34636755c0385f80f6276fb926c5fff7b712f"
+  },
+  {
+    "group": "7175950",
+    "photo_id": 7175953,
+    "source_url": "https://images.pexels.com/photos/7175953/pexels-photo-7175953.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7175953.txt?datasetVersionNumber=1",
+    "source_label_sha256": "7baf111949faada78c2b10844040b19250bda779171c1b2a41fe44b98e41613d",
+    "boxes": [
+      [
+        0,
+        0.48225,
+        0.539917,
+        0.5215,
+        0.833167
+      ]
+    ],
+    "stem": "pexels-photo-7175953",
+    "image_sha256": "0a7df7b2d0c60215d93bb8831985f40b2330c28d4c59b5f7e32bbf1df6ea0aa5",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-7175953.jpg",
+    "image_file_sha256": "2da0db970c969954a8826e41ada9b19516e916fdac0c26a97bd2eac788546439"
+  },
+  {
+    "group": "7175950",
+    "photo_id": 7176173,
+    "source_url": "https://images.pexels.com/photos/7176173/pexels-photo-7176173.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7176173.txt?datasetVersionNumber=1",
+    "source_label_sha256": "9a47cdd28109a43a3d153831e6439618a492bff83f508749dcbf852031433f79",
+    "boxes": [
+      [
+        0,
+        0.434308,
+        0.60097,
+        0.36312199999999994,
+        0.788848
+      ],
+      [
+        0,
+        0.771897,
+        0.609333,
+        0.32498399999999994,
+        0.781333
+      ]
+    ],
+    "stem": "pexels-photo-7176173",
+    "image_sha256": "4332ebf4ecf452a7c5436abddd791bab44e39a91e8a8fe11bf37ebaaa2b3e989",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-7176173.jpg",
+    "image_file_sha256": "2bbcaa46aaf8e0f06c5af1cfdf85c3bc9924f64d6eb9f894783984c2fb2239d7"
+  },
+  {
+    "group": "7175950",
+    "photo_id": 7176186,
+    "source_url": "https://images.pexels.com/photos/7176186/pexels-photo-7176186.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7176186.txt?datasetVersionNumber=1",
+    "source_label_sha256": "e428fd1f91cc798eca00aed421e70420992062d8639be75f01bf3b29aac8d324",
+    "boxes": [
+      [
+        0,
+        0.304838,
+        0.526967,
+        0.45603099999999996,
+        0.8798729999999999
+      ],
+      [
+        0,
+        0.686826,
+        0.555038,
+        0.38868900000000006,
+        0.865899
+      ]
+    ],
+    "stem": "pexels-photo-7176186",
+    "image_sha256": "a66a33aa57d6616179d3ef69b8a3a05529ee30b4b8562c13f4ffae8ecf50cf9e",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-7176186.jpg",
+    "image_file_sha256": "5392444b27a7a9fca2b47d4a1ded5555e87ecdabd3b0ff5743fac2b7c6aef96c"
+  },
+  {
+    "group": "19224455",
+    "photo_id": 19224455,
+    "source_url": "https://images.pexels.com/photos/19224455/pexels-photo-19224455.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-19224455.txt?datasetVersionNumber=1",
+    "source_label_sha256": "db46d86700c9bfcb4c7fb1d38ff685a2b62e94094b896b89714dbc8d1c4eb612",
+    "boxes": [
+      [
+        0,
+        0.580011,
+        0.575389,
+        0.029219000000000106,
+        0.11272499999999996
+      ],
+      [
+        0,
+        0.557414,
+        0.557897,
+        0.02252900000000002,
+        0.12111300000000003
+      ],
+      [
+        0,
+        0.01536,
+        0.701923,
+        0.030448,
+        0.15261900000000006
+      ],
+      [
+        0,
+        0.005735,
+        0.615998,
+        0.011196,
+        0.087561
+      ],
+      [
+        0,
+        0.279151,
+        0.753785,
+        0.10690900000000003,
+        0.31157900000000005
+      ],
+      [
+        0,
+        0.571136,
+        0.6652,
+        0.05843799999999999,
+        0.178601
+      ],
+      [
+        0,
+        0.398758,
+        0.52946,
+        0.028263000000000038,
+        0.07446799999999998
+      ],
+      [
+        0,
+        0.04812899999999999,
+        0.678089,
+        0.04765199999999999,
+        0.20642399999999994
+      ]
+    ],
+    "stem": "pexels-photo-19224455",
+    "image_sha256": "c9146b14cb295a26c5a635e22fd64d273da8403b105e12c6e42900645d03d723",
+    "height": 641,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-19224455.jpg",
+    "image_file_sha256": "49854d6c73d325cb9e0d0e3c84bdaccfe9140b40b2642260456bc93bf93cb90f"
+  },
+  {
+    "group": "19224455",
+    "photo_id": 19225108,
+    "source_url": "https://images.pexels.com/photos/19225108/pexels-photo-19225108.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-19225108.txt?datasetVersionNumber=1",
+    "source_label_sha256": "67e0e6b69455460d19a5870bfc15c2fae77f62adf9936c5af24aaf754d16825b",
+    "boxes": [
+      [
+        0,
+        0.522878,
+        0.540506,
+        0.25512099999999993,
+        0.634865
+      ],
+      [
+        0,
+        0.387071,
+        0.414578,
+        0.10321900000000006,
+        0.14298999999999995
+      ]
+    ],
+    "stem": "pexels-photo-19225108",
+    "image_sha256": "d95352e6c0e3092a87b094e412f3616cfc70770460965f74a2e0d6fafb6caf77",
+    "height": 960,
+    "width": 838,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-19225108.jpg",
+    "image_file_sha256": "eb46110d3989fdeedb4fb99aee891adf0cbb92d3b2d174c87e99490069f4cd6b"
+  },
+  {
+    "group": "19224455",
+    "photo_id": 19225212,
+    "source_url": "https://images.pexels.com/photos/19225212/pexels-photo-19225212.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-19225212.txt?datasetVersionNumber=1",
+    "source_label_sha256": "1037c63f2714e9b81ee52903494cb2486d59c55f75a84940804fccacd5f54831",
+    "boxes": [
+      [
+        0,
+        0.567969,
+        0.56875,
+        0.6802079999999999,
+        0.744097
+      ],
+      [
+        0,
+        0.178646,
+        0.513368,
+        0.284896,
+        0.32986099999999996
+      ]
+    ],
+    "stem": "pexels-photo-19225212",
+    "image_sha256": "2240b363487a8a0f3703728faa16ecc72491b6d0c3bd919c614c8ff916431c19",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-19225212.jpg",
+    "image_file_sha256": "f8ceb8611636e90c7f45e2446e145d8154be334d170b2db3665b455f04dc06ba"
+  },
+  {
+    "group": "4494851",
+    "photo_id": 4494851,
+    "source_url": "https://images.pexels.com/photos/4494851/pexels-photo-4494851.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-4494851.txt?datasetVersionNumber=1",
+    "source_label_sha256": "b4c2e426b21a7c1f9e8b68f1c8eb3b8ea6083e9bb7d537bd8729dc73adc75d72",
+    "boxes": [
+      [
+        0,
+        0.433875,
+        0.49025,
+        0.13925000000000004,
+        0.23949999999999994
+      ]
+    ],
+    "stem": "pexels-photo-4494851",
+    "image_sha256": "c28ec9ff3544777302f96232aa926895223d9b9652cb5ac6253446f26db991c3",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-4494851.jpg",
+    "image_file_sha256": "ce2a780a37c04024612442cd6ff4e14da151fb5ddade1dcf134c072122f6f385"
+  },
+  {
+    "group": "4494851",
+    "photo_id": 4495803,
+    "source_url": "https://images.pexels.com/photos/4495803/pexels-photo-4495803.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-4495803.txt?datasetVersionNumber=1",
+    "source_label_sha256": "c5dd1e6db308c560755156f0d9d13408131048e3850d0b8c0d1961c499ea024c",
+    "boxes": [
+      [
+        0,
+        0.190111,
+        0.708704,
+        0.380222,
+        0.30690400000000007
+      ]
+    ],
+    "stem": "pexels-photo-4495803",
+    "image_sha256": "ba3fc894afb641c94a09caceaa7521eed362089b01caa593f83649985d154df7",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-4495803.jpg",
+    "image_file_sha256": "e6365f8e9556a4bfdd7b75cb068d5cd1d0327d12be719d88ef20bbd1d3b44ddb"
+  },
+  {
+    "group": "4494851",
+    "photo_id": 4495907,
+    "source_url": "https://images.pexels.com/photos/4495907/pexels-photo-4495907.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-4495907.txt?datasetVersionNumber=1",
+    "source_label_sha256": "1b1eff4007bfbebe5b409ff2d46ef9d187531ce92277a01580ef008636a7f4a5",
+    "boxes": [
+      [
+        0,
+        0.2583909999999999,
+        0.83931,
+        0.516322,
+        0.3213790000000001
+      ]
+    ],
+    "stem": "pexels-photo-4495907",
+    "image_sha256": "2c8cfb4864c73f37b4645c35ac796a2118a40838ea8bd4809aff6b62da409c3b",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-4495907.jpg",
+    "image_file_sha256": "0a98f6d36c155f85fc1127f69ed7c117b8fe9509152cac5eb9bfe4f0776671bd"
+  },
+  {
+    "group": "9068366",
+    "photo_id": 9068366,
+    "source_url": "https://images.pexels.com/photos/9068366/pexels-photo-9068366.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-9068366.txt?datasetVersionNumber=1",
+    "source_label_sha256": "e36f04e8f6d0de9bd318d8dfdf9bd47faa0324bcf183bca54887b967183379e0",
+    "boxes": [
+      [
+        0,
+        0.471047,
+        0.46428,
+        0.9415990000000001,
+        0.881373
+      ]
+    ],
+    "stem": "pexels-photo-9068366",
+    "image_sha256": "83d683771630ef12421e3b9223b398d2ba98b48463b7bac3e2b175f2137a14b4",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-9068366.jpg",
+    "image_file_sha256": "b83775ed1e9815b978bb15fb7bc09c893199e29bda4dbfaa4a6db197c18f8a3f"
+  },
+  {
+    "group": "9068366",
+    "photo_id": 9068367,
+    "source_url": "https://images.pexels.com/photos/9068367/pexels-photo-9068367.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-9068367.txt?datasetVersionNumber=1",
+    "source_label_sha256": "f074a154f479cb4c74217c3ec81b197a9dd23b134a315a14a825cb228e932c5a",
+    "boxes": [
+      [
+        0,
+        0.119135,
+        0.486589,
+        0.23827,
+        0.968592
+      ],
+      [
+        0,
+        0.298869,
+        0.548945,
+        0.186612,
+        0.6196700000000002
+      ],
+      [
+        0,
+        0.714657,
+        0.681568,
+        0.46828699999999995,
+        0.550206
+      ]
+    ],
+    "stem": "pexels-photo-9068367",
+    "image_sha256": "7aaf35d95c40a862425995fe17ff36b92200f816d96420e8fd230feaa26dd20f",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-9068367.jpg",
+    "image_file_sha256": "d3f1aba59e1d44008b2cab8e4fe04fd07838e94e617136ad1fda370ea5c2074c"
+  },
+  {
+    "group": "9068366",
+    "photo_id": 9068368,
+    "source_url": "https://images.pexels.com/photos/9068368/pexels-photo-9068368.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-9068368.txt?datasetVersionNumber=1",
+    "source_label_sha256": "fdaa25fc311c66e7ab371dd0bbfc87e09dce67ece6606b4458e37d0099c61823",
+    "boxes": [
+      [
+        0,
+        0.235482,
+        0.421779,
+        0.17452099999999998,
+        0.503763
+      ],
+      [
+        0,
+        0.537321,
+        0.48597499999999993,
+        0.412131,
+        0.960091
+      ]
+    ],
+    "stem": "pexels-photo-9068368",
+    "image_sha256": "a04411994ea70e0e1a4a5916c928582ee72999b8d83be2e9145b4c5ffb450b00",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-9068368.jpg",
+    "image_file_sha256": "ce31828fc7e4ee24feca767e074061989cd41c0e8c11b2ccaf07254e2237fe9e"
+  },
+  {
+    "group": "9068366",
+    "photo_id": 9068370,
+    "source_url": "https://images.pexels.com/photos/9068370/pexels-photo-9068370.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-9068370.txt?datasetVersionNumber=1",
+    "source_label_sha256": "230e4daa91e7f684fca8118a05669b484bdcfea3796de43ae7f52d4e2eb7c672",
+    "boxes": [
+      [
+        0,
+        0.21068,
+        0.567913,
+        0.420911,
+        0.505161
+      ],
+      [
+        0,
+        0.6842047499999999,
+        0.526627,
+        0.6315905,
+        0.7561710000000001
+      ]
+    ],
+    "stem": "pexels-photo-9068370",
+    "image_sha256": "c960d527ed9f8ea356f80dd574e0b2862e1d3fbe5ee55ba7e7a616d218c73aa3",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-9068370.jpg",
+    "image_file_sha256": "d884153f1ead38ae836acc1c6464b977601061eade4049005d9fedef7e2f0667"
+  },
+  {
+    "group": "6867424",
+    "photo_id": 6869064,
+    "source_url": "https://images.pexels.com/photos/6869064/pexels-photo-6869064.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6869064.txt?datasetVersionNumber=1",
+    "source_label_sha256": "4b23f1e328d223685d4e52d555cbf1aa2172fbe36768caca63687ad562aa4f6f",
+    "boxes": [
+      [
+        0,
+        0.568493,
+        0.469618,
+        0.7883560000000001,
+        0.939236
+      ]
+    ],
+    "stem": "pexels-photo-6869064",
+    "image_sha256": "085f31096a01b6bafeb4a117d2a5323ab9a09b64baa84d506704f2e0b088e8dc",
+    "height": 960,
+    "width": 541,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-6869064.jpg",
+    "image_file_sha256": "cf34dd4de87cd60cd00074d9afe45b528ea790c624648ffadba24b96513ea7d0"
+  },
+  {
+    "group": "6867424",
+    "photo_id": 6869065,
+    "source_url": "https://images.pexels.com/photos/6869065/pexels-photo-6869065.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6869065.txt?datasetVersionNumber=1",
+    "source_label_sha256": "a0f38151801c3cb490119221b2f7a7957e2c056b088989e633eeb7fc015c2d29",
+    "boxes": [
+      [
+        0,
+        0.396219,
+        0.471233,
+        0.5636569999999999,
+        0.8582190000000001
+      ]
+    ],
+    "stem": "pexels-photo-6869065",
+    "image_sha256": "c6ff55eb7f7759b8faa99b8f659fda070c2b5cc400c350c054162a8a234ac283",
+    "height": 541,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-6869065.jpg",
+    "image_file_sha256": "e9ef9ea57b820a90463dd952ed556af43dc44a1493cdcf245b905aa2943ab1c3"
+  },
+  {
+    "group": "6867424",
+    "photo_id": 6870311,
+    "source_url": "https://images.pexels.com/photos/6870311/pexels-photo-6870311.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6870311.txt?datasetVersionNumber=1",
+    "source_label_sha256": "af60888d32a36cac32107e64e1406ffb7fa8fd7f8dec37db1a9a0aa2c7f95a74",
+    "boxes": [
+      [
+        0,
+        0.331337,
+        0.53138,
+        0.443924,
+        0.9372400000000001
+      ]
+    ],
+    "stem": "pexels-photo-6870311",
+    "image_sha256": "8bb5a302ab79158df745f06ddd1d70c273b816bf2f0189b86fbd7c40dea4aca1",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-6870311.jpg",
+    "image_file_sha256": "9ab9393df3a2e1942eb45ab9b3dcd0a3c42e474df81a6b36d0cb6fce87cd7a4e"
+  },
+  {
+    "group": "3084060",
+    "photo_id": 3084060,
+    "source_url": "https://images.pexels.com/photos/3084060/pexels-photo-3084060.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3084060.txt?datasetVersionNumber=1",
+    "source_label_sha256": "0316eeeb2ea21486572730f8a21255904ffbf8d8ba2c7da2d4cc6747ab89ebf2",
+    "boxes": [
+      [
+        0,
+        0.419469,
+        0.594541,
+        0.6041209999999999,
+        0.3752710000000001
+      ]
+    ],
+    "stem": "pexels-photo-3084060",
+    "image_sha256": "dc2bd41c825cd23b72289f5aa6fa2ec5916287bf2d540ed0836ea80fcbbf1422",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-3084060.jpg",
+    "image_file_sha256": "395a2c22f0163b1b05ca6a445b3928f8459928bbfc6e90d9dd7a39d83bc6d47f"
+  },
+  {
+    "group": "3084060",
+    "photo_id": 3084330,
+    "source_url": "https://images.pexels.com/photos/3084330/pexels-photo-3084330.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3084330.txt?datasetVersionNumber=1",
+    "source_label_sha256": "255824aa26ee44b76c11fa0d73edc4d8aa724dd137fc7614f11af8f3ac97cf45",
+    "boxes": [
+      [
+        0,
+        0.4846790000000001,
+        0.43198500000000006,
+        0.526583,
+        0.647059
+      ]
+    ],
+    "stem": "pexels-photo-3084330",
+    "image_sha256": "010b685d1d56e43e0d9fbe403763509762a02794b4e444bd303c01fcbf91f879",
+    "height": 636,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-3084330.jpg",
+    "image_file_sha256": "870c368671cc6fee9f73db759fb60557a49f7c1cd20d6c82f87fde5f6aab9e59"
+  },
+  {
+    "group": "3084060",
+    "photo_id": 3084334,
+    "source_url": "https://images.pexels.com/photos/3084334/pexels-photo-3084334.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3084334.txt?datasetVersionNumber=1",
+    "source_label_sha256": "789e963b7cd24a27c263c81b9644d3266a9267f11fe4e30afa72b7c695e0ca85",
+    "boxes": [
+      [
+        0,
+        0.549173,
+        0.468446,
+        0.901654,
+        0.757102
+      ]
+    ],
+    "stem": "pexels-photo-3084334",
+    "image_sha256": "a1baccc81570d46f04e1b51df4231d3e910b7915813d45c08c1a83fb08bcf08c",
+    "height": 960,
+    "width": 636,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-3084334.jpg",
+    "image_file_sha256": "219b3b21bd4382bd79dcc88a8dbd21e93da40100ce535462ef8037518f4f9128"
+  },
+  {
+    "group": "13757247",
+    "photo_id": 13757247,
+    "source_url": "https://images.pexels.com/photos/13757247/pexels-photo-13757247.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-13757247.txt?datasetVersionNumber=1",
+    "source_label_sha256": "dc2880a2effb8bdd5b506dfd97110bbbc33ff6564384d4376b580539bb7a6fd2",
+    "boxes": [
+      [
+        0,
+        0.863179,
+        0.776395,
+        0.041751000000000094,
+        0.308824
+      ],
+      [
+        0,
+        0.684608,
+        0.736331,
+        0.03822900000000007,
+        0.221908
+      ],
+      [
+        0,
+        0.582558,
+        0.738028,
+        0.058726999999999974,
+        0.17741300000000004
+      ],
+      [
+        0,
+        0.511569,
+        0.7648,
+        0.05105599999999999,
+        0.11708099999999999
+      ],
+      [
+        0,
+        0.425679,
+        0.720777,
+        0.04577500000000001,
+        0.18627499999999997
+      ],
+      [
+        0,
+        0.555018,
+        0.480392,
+        0.07105099999999998,
+        0.19343900000000003
+      ]
+    ],
+    "stem": "pexels-photo-13757247",
+    "image_sha256": "c00a9dd50499a2eb0ac31066dd0e7aaf61f70896d756ec2b0f19a394620b02e5",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-13757247.jpg",
+    "image_file_sha256": "15e81e4b4a9dea500f344ce1a6401daf572e5ad0943f2ce69380d4a81268c022"
+  },
+  {
+    "group": "13757247",
+    "photo_id": 13757390,
+    "source_url": "https://images.pexels.com/photos/13757390/pexels-photo-13757390.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-13757390.txt?datasetVersionNumber=1",
+    "source_label_sha256": "1116c482c40c864577de5eb42d8ab2b108c3c7f2a2aaab2d92d81e0bd3fa0394",
+    "boxes": [
+      [
+        0,
+        0.455427,
+        0.372083,
+        0.11815500000000001,
+        0.19983000000000006
+      ],
+      [
+        0,
+        0.651125,
+        0.400933,
+        0.21239600000000003,
+        0.26262199999999997
+      ]
+    ],
+    "stem": "pexels-photo-13757390",
+    "image_sha256": "c9747216d008d7ef49b4a869209169e35dc82161944fb90078927288f5e1898d",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-13757390.jpg",
+    "image_file_sha256": "31f556919f06f5d9654cfa5a7b593f65cb1b24ae04d72a102a35be9b63e8ea35"
+  },
+  {
+    "group": "13757247",
+    "photo_id": 13757398,
+    "source_url": "https://images.pexels.com/photos/13757398/pexels-photo-13757398.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-13757398.txt?datasetVersionNumber=1",
+    "source_label_sha256": "07cba916a8d39ffc50b354bcf7bb8b142cdf1bc4467232b5b5bd4f225bc624da",
+    "boxes": [
+      [
+        0,
+        0.367392,
+        0.3982840000000001,
+        0.29036699999999993,
+        0.43344600000000005
+      ],
+      [
+        0,
+        0.697812,
+        0.347097,
+        0.3563879999999999,
+        0.44796400000000003
+      ]
+    ],
+    "stem": "pexels-photo-13757398",
+    "image_sha256": "5aeb35af841af04ff5741ba5515b239bb1946689b517450af6b27844fc387ced",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-13757398.jpg",
+    "image_file_sha256": "9c020007e7ce61122068dbf8441ad4a6d1e8235c72c7bd630228c9ff084aad60"
+  },
+  {
+    "group": "13757247",
+    "photo_id": 13757402,
+    "source_url": "https://images.pexels.com/photos/13757402/pexels-photo-13757402.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-13757402.txt?datasetVersionNumber=1",
+    "source_label_sha256": "4db0cdc9d56d07d7f17a95001501ad822887e4bc7853d4c82b11cae3f6c47e91",
+    "boxes": [
+      [
+        0,
+        0.433003,
+        0.39986,
+        0.10457300000000003,
+        0.20188500000000004
+      ],
+      [
+        0,
+        0.603504,
+        0.440557,
+        0.1623429999999999,
+        0.27325599999999994
+      ],
+      [
+        0,
+        0.16241,
+        0.40015999999999996,
+        0.142953,
+        0.2530069999999999
+      ]
+    ],
+    "stem": "pexels-photo-13757402",
+    "image_sha256": "4e47ccd015fda81d08d8bca4b557e1028f195e02168785de70e1d9b5b2aeb0c5",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-13757402.jpg",
+    "image_file_sha256": "8e98044cc244b685a10d0bac5c173e859190057819e102fef043935c1c6acb4d"
+  },
+  {
+    "group": "4966809",
+    "photo_id": 4966809,
+    "source_url": "https://images.pexels.com/photos/4966809/pexels-photo-4966809.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-4966809.txt?datasetVersionNumber=1",
+    "source_label_sha256": "0637fbb8488b44856046fcea3356befed72ac03d3e000b232007ec182b74e705",
+    "boxes": [
+      [
+        0,
+        0.544818,
+        0.509715,
+        0.040326000000000084,
+        0.10247600000000001
+      ],
+      [
+        0,
+        0.375157,
+        0.452523,
+        0.04366899999999996,
+        0.08837399999999995
+      ]
+    ],
+    "stem": "pexels-photo-4966809",
+    "image_sha256": "9755cd37f60fa8596276d222190eedee2590892a820fe1a00ba5fbbc109de012",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-4966809.jpg",
+    "image_file_sha256": "976b47bde315fcb904b200e6d68508b22798604e0a02e523aa0b9e0a636c875d"
+  },
+  {
+    "group": "4966809",
+    "photo_id": 4968424,
+    "source_url": "https://images.pexels.com/photos/4968424/pexels-photo-4968424.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-4968424.txt?datasetVersionNumber=1",
+    "source_label_sha256": "2df316589d5e9ae2d91f259832e43f6299261082afce4ab80a390027db61dd9c",
+    "boxes": [
+      [
+        0,
+        0.59825,
+        0.598442,
+        0.5,
+        0.802365
+      ],
+      [
+        0,
+        0.654,
+        0.295796,
+        0.274,
+        0.322072
+      ]
+    ],
+    "stem": "pexels-photo-4968424",
+    "image_sha256": "3263c32c3925f47c2d156a3d3f3c9496e4f86a1040206810d1f3d76a161d12f1",
+    "height": 960,
+    "width": 721,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-4968424.jpg",
+    "image_file_sha256": "705078bfb4c798d87a939dbc58b450ab5ce7bd83904217b2b4fcf4890f6bc260"
+  },
+  {
+    "group": "4966809",
+    "photo_id": 4968427,
+    "source_url": "https://images.pexels.com/photos/4968427/pexels-photo-4968427.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-4968427.txt?datasetVersionNumber=1",
+    "source_label_sha256": "35ebf9f29e17b1559e886933981f11830dcefd75ff803acbc3723caad44d6da6",
+    "boxes": [
+      [
+        0,
+        0.551375,
+        0.668262,
+        0.5707499999999999,
+        0.663476
+      ]
+    ],
+    "stem": "pexels-photo-4968427",
+    "image_sha256": "69286f01fd337948106948481eefb9c6f213a3039cf89690b16ed7b4eabe176b",
+    "height": 960,
+    "width": 721,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-4968427.jpg",
+    "image_file_sha256": "015209c86b6eb1a0a0fae1633b4a0d5ff7315ebc9d4907f0dd0edcd5317213b1"
+  },
+  {
+    "group": "4966809",
+    "photo_id": 4968429,
+    "source_url": "https://images.pexels.com/photos/4968429/pexels-photo-4968429.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-4968429.txt?datasetVersionNumber=1",
+    "source_label_sha256": "0667effb44fad439bfde622f8203d915e4140a5fc9fa6b9c96c171beec932e15",
+    "boxes": [
+      [
+        0,
+        0.38150000000000006,
+        0.659628,
+        0.7625,
+        0.6807429999999999
+      ]
+    ],
+    "stem": "pexels-photo-4968429",
+    "image_sha256": "3e62eac3b630ed42b0aa7048373f404d77373ed335edb58b5da527b2d825af03",
+    "height": 960,
+    "width": 721,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-4968429.jpg",
+    "image_file_sha256": "8bac87bf522261a80a7e26753c69ef704b10f2eba77a08d11fdd2231f49ad1ec"
+  },
+  {
+    "group": "8554280",
+    "photo_id": 8554280,
+    "source_url": "https://images.pexels.com/photos/8554280/pexels-photo-8554280.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-8554280.txt?datasetVersionNumber=1",
+    "source_label_sha256": "5ad824d7e766e33b23efd947b9d8e131eedac7dc698fb37d3e250f1055aa3d0c",
+    "boxes": [
+      [
+        0,
+        0.506176,
+        0.441982,
+        0.25600699999999993,
+        0.5228330000000001
+      ],
+      [
+        0,
+        0.662138,
+        0.650696,
+        0.660004,
+        0.514149
+      ]
+    ],
+    "stem": "pexels-photo-8554280",
+    "image_sha256": "42ca3b061175662625dbeab5176bd5cda9e6df864b708dd868e55c0f9658543d",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-8554280.jpg",
+    "image_file_sha256": "ce223cb273e2d2c9bcb4bf695fa27ac41061894e36c20ae47fc0feebf43ab0cf"
+  },
+  {
+    "group": "8554280",
+    "photo_id": 8554293,
+    "source_url": "https://images.pexels.com/photos/8554293/pexels-photo-8554293.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-8554293.txt?datasetVersionNumber=1",
+    "source_label_sha256": "fe18862adf19a609f0c82869a750d5f4e1a08b1dc139bd8b804297b94fbb3ea3",
+    "boxes": [
+      [
+        0,
+        0.413859,
+        0.521911,
+        0.705743,
+        0.553393
+      ]
+    ],
+    "stem": "pexels-photo-8554293",
+    "image_sha256": "50f3e0f55c38369cd8f51dd8f83358fe6db685751e750287a2efc30d7c6981e8",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-8554293.jpg",
+    "image_file_sha256": "6afaae29943bbac65e7c8b3da3c83e0c79532f5792514ba298787b62c9f12989"
+  },
+  {
+    "group": "8554280",
+    "photo_id": 8554320,
+    "source_url": "https://images.pexels.com/photos/8554320/pexels-photo-8554320.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-8554320.txt?datasetVersionNumber=1",
+    "source_label_sha256": "e99b2cd4e77f49cc66206dbf1ccb09bc7decc92136c0d93c7968bd83ecc334d3",
+    "boxes": [
+      [
+        0,
+        0.784836,
+        0.625483,
+        0.4303269999999999,
+        0.749034
+      ],
+      [
+        0,
+        0.188999,
+        0.633363,
+        0.377998,
+        0.7326789999999999
+      ]
+    ],
+    "stem": "pexels-photo-8554320",
+    "image_sha256": "93c1d30a1fb0089e424a5f36f51c2fbb65c3b8e0b88bc7f1d8b9603415f813dc",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-8554320.jpg",
+    "image_file_sha256": "7c1cf12dcdba8ac846d8f6237f5eb8a083139379f79cba08ee2ee0a55df43dd4"
+  },
+  {
+    "group": "8554280",
+    "photo_id": 8554321,
+    "source_url": "https://images.pexels.com/photos/8554321/pexels-photo-8554321.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-8554321.txt?datasetVersionNumber=1",
+    "source_label_sha256": "77e76cec07f16e91b11cd58518af67134b7408d905822de4fc0bac35d9239176",
+    "boxes": [
+      [
+        0,
+        0.156833,
+        0.795125,
+        0.23933300000000002,
+        0.40975000000000006
+      ],
+      [
+        0,
+        0.33375,
+        0.744625,
+        0.23550000000000001,
+        0.51075
+      ]
+    ],
+    "stem": "pexels-photo-8554321",
+    "image_sha256": "041d572fad3cb62fb3636d1ac2512304006c6586de1ad16a3dcc81bb64f11ae7",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-8554321.jpg",
+    "image_file_sha256": "482718ac5494413db2052257fa6a6e3453ab2422b170ab71fc1b50a8c5d9a1f7"
+  },
+  {
+    "group": "4126805",
+    "photo_id": 4126805,
+    "source_url": "https://images.pexels.com/photos/4126805/pexels-photo-4126805.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-4126805.txt?datasetVersionNumber=1",
+    "source_label_sha256": "24265e6b85985159134153c0176c1536e54232aa21a53d99fdb028e794bdc825",
+    "boxes": [
+      [
+        0,
+        0.269291,
+        0.44731300000000007,
+        0.538582,
+        0.894625
+      ]
+    ],
+    "stem": "pexels-photo-4126805",
+    "image_sha256": "cabfabf323734d877f5fc37089126336719bc2a4a8410d34c210417b43ed8931",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-4126805.jpg",
+    "image_file_sha256": "b26188f7e420ee268b5a468d4f6e95f24b5cb34568c8473dda2615db4cbb2404"
+  },
+  {
+    "group": "4126805",
+    "photo_id": 4126810,
+    "source_url": "https://images.pexels.com/photos/4126810/pexels-photo-4126810.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-4126810.txt?datasetVersionNumber=1",
+    "source_label_sha256": "993995689ac364c1ef328d6997e3a1daf1bda3c0c4fc1a611433c7197d56ed5a",
+    "boxes": [
+      [
+        0,
+        0.287277,
+        0.43842,
+        0.5742530000000001,
+        0.818429
+      ]
+    ],
+    "stem": "pexels-photo-4126810",
+    "image_sha256": "f3fd88804386f760e2874881fb1341597641357f982786ec07cbb9d549399d1b",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-4126810.jpg",
+    "image_file_sha256": "84a108fc3415812d7cbb100eba801d8b21434ec34dbe69d3061fbeff8a07aaaa"
+  },
+  {
+    "group": "4126805",
+    "photo_id": 4126811,
+    "source_url": "https://images.pexels.com/photos/4126811/pexels-photo-4126811.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-4126811.txt?datasetVersionNumber=1",
+    "source_label_sha256": "ce245bf46d1f979cd37df81e55b0ccfe95c5353f964d34699dae2d2a2b459eee",
+    "boxes": [
+      [
+        0,
+        0.36056,
+        0.41671525,
+        0.72112,
+        0.8334305
+      ]
+    ],
+    "stem": "pexels-photo-4126811",
+    "image_sha256": "b7b4d30a27cdd0e87f24c814710cfa6aaa77c1d7043dfe48b4dd41c25deb6f8e",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-4126811.jpg",
+    "image_file_sha256": "f0cf865699a941c451aa9a7b158718bc0241e39ee282d481e73ccc6ffaab4275"
+  },
+  {
+    "group": "4126805",
+    "photo_id": 4126901,
+    "source_url": "https://images.pexels.com/photos/4126901/pexels-photo-4126901.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-4126901.txt?datasetVersionNumber=1",
+    "source_label_sha256": "166894c3fe043f501d5d338a959a226ebf8928e43429a63ba552c43a8942a53d",
+    "boxes": [
+      [
+        0,
+        0.50013075,
+        0.559704,
+        0.9997385000000001,
+        0.880592
+      ]
+    ],
+    "stem": "pexels-photo-4126901",
+    "image_sha256": "a6b83b8bd822fdc778ee4f471852d0aa41ff4ff0c0308ee38ffc8bcc6c00659f",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-4126901.jpg",
+    "image_file_sha256": "6fe332248e8abe72391d6ac3ddf73c1616e5c8c4d3d5096760778244f4e04457"
+  },
+  {
+    "group": "3817730",
+    "photo_id": 3817730,
+    "source_url": "https://images.pexels.com/photos/3817730/pexels-photo-3817730.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3817730.txt?datasetVersionNumber=1",
+    "source_label_sha256": "fa219a5414f8dcedb00630071cb5f6378fd7c4d9b1e9bf456af252ed78801b21",
+    "boxes": [
+      [
+        0,
+        0.636393,
+        0.526172,
+        0.2998700000000001,
+        0.6742190000000001
+      ]
+    ],
+    "stem": "pexels-photo-3817730",
+    "image_sha256": "778db24006783ab217781a89d3bd1794fb7060da13691462463368f18e55a37c",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-3817730.jpg",
+    "image_file_sha256": "730415024f3515a6e74468b4aa800c2d763164f8d542850735ff40e0e1d5a15d"
+  },
+  {
+    "group": "3817730",
+    "photo_id": 3817756,
+    "source_url": "https://images.pexels.com/photos/3817756/pexels-photo-3817756.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3817756.txt?datasetVersionNumber=1",
+    "source_label_sha256": "f62570b137f3f0c2a2314773f0a73b198b266bdafc38cae6dbf6c52033c2461c",
+    "boxes": [
+      [
+        0,
+        0.650521,
+        0.4960939999999999,
+        0.27005199999999996,
+        0.580859
+      ]
+    ],
+    "stem": "pexels-photo-3817756",
+    "image_sha256": "2eb3ed17bd335bc41cdc284c819f9c1821ddcf793f8913577083c9d35779adf6",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-3817756.jpg",
+    "image_file_sha256": "6dd224bc6f2376f79c0c9fa92006243d711f38057bcdad4677a8aff619ea5756"
+  },
+  {
+    "group": "3817730",
+    "photo_id": 3817784,
+    "source_url": "https://images.pexels.com/photos/3817784/pexels-photo-3817784.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3817784.txt?datasetVersionNumber=1",
+    "source_label_sha256": "fa4ff09c04cd20bc7c722bd6fe10b6d2bb0f4e6f4cf8a98d73da460473ec01a5",
+    "boxes": [
+      [
+        0,
+        0.535677,
+        0.529004,
+        0.36927099999999996,
+        0.62168
+      ]
+    ],
+    "stem": "pexels-photo-3817784",
+    "image_sha256": "0269f8bb2f2fecbe22844a6cb9fa7be36ab23b3a855ef2f42aec75e110a176e6",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-3817784.jpg",
+    "image_file_sha256": "765f5169c0928bab7ce0f0e93e0d4e297b0b184b7a30d3ea126434aa070ee275"
+  },
+  {
+    "group": "3817730",
+    "photo_id": 3817785,
+    "source_url": "https://images.pexels.com/photos/3817785/pexels-photo-3817785.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3817785.txt?datasetVersionNumber=1",
+    "source_label_sha256": "c2504d73ab28a7d524b61a1d734b7038c8dd3324a3aab47f2fb2a4d8f853cb70",
+    "boxes": [
+      [
+        0,
+        0.530664,
+        0.633203,
+        0.3714839999999999,
+        0.707031
+      ]
+    ],
+    "stem": "pexels-photo-3817785",
+    "image_sha256": "845fe5ad3710f5a4862ee29898fc75b45ec4831fb30b1a33034e6865cf7cf656",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-3817785.jpg",
+    "image_file_sha256": "00bae202ec9afb531411ccc6a1159a3393ebe6347197596d189a60a59ed5c1d1"
+  },
+  {
+    "group": "6457476",
+    "photo_id": 6457476,
+    "source_url": "https://images.pexels.com/photos/6457476/pexels-photo-6457476.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6457476.txt?datasetVersionNumber=1",
+    "source_label_sha256": "ae22b348013686c846f071a249bedaaf906baeb01d00cb02f6dbdf183189bca1",
+    "boxes": [
+      [
+        0,
+        0.1988,
+        0.320882,
+        0.3976,
+        0.641764
+      ],
+      [
+        0,
+        0.6938,
+        0.30168,
+        0.5704,
+        0.60336
+      ]
+    ],
+    "stem": "pexels-photo-6457476",
+    "image_sha256": "3f1dc09d9a842108dea0296b0d738e69f8b9121311612f8229737f6022487fea",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-6457476.jpg",
+    "image_file_sha256": "777459d8194f267b11ec04f67c54dfba67310e69c9919af84e6132a677f0307d"
+  },
+  {
+    "group": "6457476",
+    "photo_id": 6457477,
+    "source_url": "https://images.pexels.com/photos/6457477/pexels-photo-6457477.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6457477.txt?datasetVersionNumber=1",
+    "source_label_sha256": "b799ed925764a943deb6cf9a2eccfe589c261022e3457ac2dd1fa2179e0b4f24",
+    "boxes": [
+      [
+        0,
+        0.524902,
+        0.5486,
+        0.842184,
+        0.9020000000000001
+      ]
+    ],
+    "stem": "pexels-photo-6457477",
+    "image_sha256": "e37f61efabe71a0e2d731da60f8eeb298dc44b417a15a6affc80bb13d00483c8",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-6457477.jpg",
+    "image_file_sha256": "933364de5d2ef29fed8a98c3ddc050a3bd2837e8cfd2e533b553705b7bbc1c77"
+  },
+  {
+    "group": "6457476",
+    "photo_id": 6457478,
+    "source_url": "https://images.pexels.com/photos/6457478/pexels-photo-6457478.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6457478.txt?datasetVersionNumber=1",
+    "source_label_sha256": "66d5ae5c7d4b320dd469ab98eef9d494d04eb177f344e9fbd9354c17734de130",
+    "boxes": [
+      [
+        0,
+        0.3443,
+        0.31353125000000004,
+        0.6886,
+        0.6270625000000001
+      ]
+    ],
+    "stem": "pexels-photo-6457478",
+    "image_sha256": "834c146005c79bdc14bdd90e48f82a6a547fba152fd9b244b13fd6bcbf077c7a",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-6457478.jpg",
+    "image_file_sha256": "f9f9c8cb7253801070de9dec3c4ad475114b80c3005edc037546cacbd16d10ee"
+  },
+  {
+    "group": "6457476",
+    "photo_id": 6457479,
+    "source_url": "https://images.pexels.com/photos/6457479/pexels-photo-6457479.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-6457479.txt?datasetVersionNumber=1",
+    "source_label_sha256": "ba00de7b9e9c7a63a904b9dae8c0e73413ada1691dfb76635baf7bce3a1e5096",
+    "boxes": [
+      [
+        0,
+        0.7816,
+        0.562856,
+        0.2792000000000001,
+        0.6156619999999999
+      ],
+      [
+        0,
+        0.4656,
+        0.537504,
+        0.25919999999999993,
+        0.6423640000000002
+      ],
+      [
+        0,
+        0.215,
+        0.605161,
+        0.3424,
+        0.7584760000000002
+      ]
+    ],
+    "stem": "pexels-photo-6457479",
+    "image_sha256": "8ceb41fa15387c6aa10defbe957b010cb0cc63a6f9ad819bf18754866a143746",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-6457479.jpg",
+    "image_file_sha256": "54486492780ada249a85cb41d86816a24e91c2b1f3b20a01860f7c96b4d4ae3b"
+  },
+  {
+    "group": "4530406",
+    "photo_id": 4530406,
+    "source_url": "https://images.pexels.com/photos/4530406/pexels-photo-4530406.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-4530406.txt?datasetVersionNumber=1",
+    "source_label_sha256": "a6964c35cb81991cf3ceddfb12d03dbf85444d40cc5113e90d3053ca67ccde2c",
+    "boxes": [
+      [
+        0,
+        0.648876,
+        0.6729,
+        0.26146899999999995,
+        0.5253999999999999
+      ],
+      [
+        0,
+        0.317691,
+        0.6532,
+        0.224588,
+        0.5644
+      ],
+      [
+        0,
+        0.477061,
+        0.5657,
+        0.503148,
+        0.7214
+      ]
+    ],
+    "stem": "pexels-photo-4530406",
+    "image_sha256": "8e2e3c22b657f272df432aeac32d95ff506ae4c1871cbf9145f7a2961e4d1382",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-4530406.jpg",
+    "image_file_sha256": "51ef233519084e98feb920d1fe2f0f1b65ce9eaaf000f1f66813e2b8b6ebc235"
+  },
+  {
+    "group": "4530406",
+    "photo_id": 4530407,
+    "source_url": "https://images.pexels.com/photos/4530407/pexels-photo-4530407.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-4530407.txt?datasetVersionNumber=1",
+    "source_label_sha256": "0e5622d4f52fd26a2c4a9b204dea83379e882b64077600d6c8e50af9b6f5d161",
+    "boxes": [
+      [
+        0,
+        0.717,
+        0.621139,
+        0.37840000000000007,
+        0.745727
+      ],
+      [
+        0,
+        0.4008,
+        0.581409,
+        0.2592,
+        0.8251869999999999
+      ]
+    ],
+    "stem": "pexels-photo-4530407",
+    "image_sha256": "b59418a2234d8549aa47cec3b3b2f49525853324b475d73be25edd775e551fb8",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-4530407.jpg",
+    "image_file_sha256": "7e5a12adffda9aa5e02f0288cfdc33d2f34174d589caef1edeb9e07b4afd5a8c"
+  },
+  {
+    "group": "4530406",
+    "photo_id": 4530410,
+    "source_url": "https://images.pexels.com/photos/4530410/pexels-photo-4530410.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-4530410.txt?datasetVersionNumber=1",
+    "source_label_sha256": "9e9f0861e987f4bfb69612b25eaf2c544eb3f4e706188a93c6e77218ebb20643",
+    "boxes": [
+      [
+        0,
+        0.466567,
+        0.5096,
+        0.32023999999999997,
+        0.6867999999999999
+      ]
+    ],
+    "stem": "pexels-photo-4530410",
+    "image_sha256": "7763a911791a9b8a93ef07cc8b287455715bc6aee3a1ce4dc1365f4a368dae43",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-4530410.jpg",
+    "image_file_sha256": "bfc847f2a6e1b37f5b1bf967961ae6ae1068489e2bdfbab243225ea98e41878c"
+  },
+  {
+    "group": "4530406",
+    "photo_id": 4530429,
+    "source_url": "https://images.pexels.com/photos/4530429/pexels-photo-4530429.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-4530429.txt?datasetVersionNumber=1",
+    "source_label_sha256": "42714f06c42e131b9ff462f58cbd09ed1bd9a1e8105bc5baebc263b68f2821fa",
+    "boxes": [
+      [
+        0,
+        0.29580000000000006,
+        0.50899575,
+        0.56,
+        0.9820085000000001
+      ]
+    ],
+    "stem": "pexels-photo-4530429",
+    "image_sha256": "32d18962509995a20227673d873272e0cccc3d51364e9c61a78e328d65b7367e",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-4530429.jpg",
+    "image_file_sha256": "f2b6accf7508669642dd4399838f1f2b02e00226fb1c51227ea1d3849717dac9"
+  },
+  {
+    "group": "7658189",
+    "photo_id": 7658189,
+    "source_url": "https://images.pexels.com/photos/7658189/pexels-photo-7658189.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7658189.txt?datasetVersionNumber=1",
+    "source_label_sha256": "c37f96c139bc850acec77bfef4fbf48e0b2b2219c9a92336cd4b1df171e6e306",
+    "boxes": [
+      [
+        0,
+        0.392732,
+        0.51856,
+        0.44486900000000007,
+        0.670404
+      ],
+      [
+        0,
+        0.883336,
+        0.476582,
+        0.23332799999999998,
+        0.859492
+      ]
+    ],
+    "stem": "pexels-photo-7658189",
+    "image_sha256": "8c7e003cb533e2a44766e5eb4456bf74f11986b20d90cddb75d9e4b097bfa520",
+    "height": 641,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-7658189.jpg",
+    "image_file_sha256": "da361ef6c8ee375bff61cdb263cd448c94dacec1eb0c896515bee8f344309379"
+  },
+  {
+    "group": "7658189",
+    "photo_id": 7658241,
+    "source_url": "https://images.pexels.com/photos/7658241/pexels-photo-7658241.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7658241.txt?datasetVersionNumber=1",
+    "source_label_sha256": "22b04d2a3e144f101de7ee2075b01c83efd3de053cde94935a891e91b04371af",
+    "boxes": [
+      [
+        0,
+        0.608189,
+        0.599549,
+        0.2031050000000001,
+        0.559178
+      ],
+      [
+        0,
+        0.790383,
+        0.6054,
+        0.2349110000000001,
+        0.562187
+      ],
+      [
+        0,
+        0.208365,
+        0.592946,
+        0.203857,
+        0.513206
+      ]
+    ],
+    "stem": "pexels-photo-7658241",
+    "image_sha256": "e12b9924e24739cc099292446b41cc9c28d0b5aa53a554448848754fc36a9257",
+    "height": 960,
+    "width": 641,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-7658241.jpg",
+    "image_file_sha256": "df9124b017814c3d87ff153b943780ef72c03d06ca32eb46df987a688180333c"
+  },
+  {
+    "group": "7658189",
+    "photo_id": 7658272,
+    "source_url": "https://images.pexels.com/photos/7658272/pexels-photo-7658272.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7658272.txt?datasetVersionNumber=1",
+    "source_label_sha256": "ad67d4d2b0e528b9513e7eb1a993d611ca0de11e23c7ae0684f13e9b5f021d8e",
+    "boxes": [
+      [
+        0,
+        0.601218,
+        0.68697,
+        0.5119229999999999,
+        0.6260600000000001
+      ],
+      [
+        0,
+        0.205417,
+        0.688441,
+        0.403059,
+        0.6231180000000001
+      ]
+    ],
+    "stem": "pexels-photo-7658272",
+    "image_sha256": "bd4197db3833507966c119b0c3b2e2f84839b47d3059513be7de3850993fe36c",
+    "height": 960,
+    "width": 641,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-7658272.jpg",
+    "image_file_sha256": "7ddcf753900e0189d02b7e2b2407218f7a57dcb3bf96c9982b152a3f416138a0"
+  },
+  {
+    "group": "7658189",
+    "photo_id": 7658277,
+    "source_url": "https://images.pexels.com/photos/7658277/pexels-photo-7658277.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7658277.txt?datasetVersionNumber=1",
+    "source_label_sha256": "c52f9ac12eefffac6617ec2514c84adb0da65c92c724d2d5e8f0bcf54cd3754e",
+    "boxes": [
+      [
+        0,
+        0.641946,
+        0.504259,
+        0.25167499999999987,
+        0.678876
+      ],
+      [
+        0,
+        0.852313,
+        0.510967,
+        0.24880400000000003,
+        0.6752560000000001
+      ],
+      [
+        0,
+        0.14306200000000002,
+        0.494996,
+        0.254864,
+        0.653535
+      ],
+      [
+        0,
+        0.37910699999999997,
+        0.548552,
+        0.3007969999999999,
+        0.761925
+      ]
+    ],
+    "stem": "pexels-photo-7658277",
+    "image_sha256": "289d946d8bc39bfd1b44e74cb18de28c858b3ba7f125d32dffba6782fe35de0f",
+    "height": 960,
+    "width": 641,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-7658277.jpg",
+    "image_file_sha256": "55f82e46435c7202df26b5bc51985f485e061ce76827e4a18ac6bcf0760f7955"
+  },
+  {
+    "group": "7469440",
+    "photo_id": 7469440,
+    "source_url": "https://images.pexels.com/photos/7469440/pexels-photo-7469440.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7469440.txt?datasetVersionNumber=1",
+    "source_label_sha256": "cb6fbebe96ae96b26013a012f3d4ed43ded4f9df524f8d5744ae86eb08abd34b",
+    "boxes": [
+      [
+        0,
+        0.499625,
+        0.606583,
+        0.99875,
+        0.7868329999999999
+      ]
+    ],
+    "stem": "pexels-photo-7469440",
+    "image_sha256": "e44117fbf74cb1629b80a2531b78d32192225b9a5e77f9ff8abfa1a02a8210dc",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-7469440.jpg",
+    "image_file_sha256": "350e5ea7c8fd24f70c87c284d377f80a1c32ec96f82ce9e0b484eb3a33fd70f6"
+  },
+  {
+    "group": "7469440",
+    "photo_id": 7469442,
+    "source_url": "https://images.pexels.com/photos/7469442/pexels-photo-7469442.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7469442.txt?datasetVersionNumber=1",
+    "source_label_sha256": "43fc7e163656400166cf4db5923a4486c282d6ee79e0e39396c497e4ec1c35dd",
+    "boxes": [
+      [
+        0,
+        0.5585,
+        0.565833,
+        0.7730000000000001,
+        0.868333
+      ]
+    ],
+    "stem": "pexels-photo-7469442",
+    "image_sha256": "b3f95e4ec8e2c27b74204295e0569c01b1ee3d0bac558ebcc6793dc146da6f59",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-7469442.jpg",
+    "image_file_sha256": "285a12cc370e3c029792b39f6f140446549b6ee84ab030e104ed418bd20ac5f8"
+  },
+  {
+    "group": "7469440",
+    "photo_id": 7469445,
+    "source_url": "https://images.pexels.com/photos/7469445/pexels-photo-7469445.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7469445.txt?datasetVersionNumber=1",
+    "source_label_sha256": "c17e9354fe9729ab938cb726c8d42923184f3313a1a72b48bdf63849ef7f008e",
+    "boxes": [
+      [
+        0,
+        0.600083,
+        0.499875,
+        0.6185,
+        0.99975
+      ]
+    ],
+    "stem": "pexels-photo-7469445",
+    "image_sha256": "d95fb9e60e0ebe16fab232676b7880ea4dd60be79d0425907de77f28c2f627a2",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-7469445.jpg",
+    "image_file_sha256": "44752fae51dbbee7c806cb0688f7d215c99e2b7e948695ef1bfa870a62408cb0"
+  },
+  {
+    "group": "7469440",
+    "photo_id": 7469450,
+    "source_url": "https://images.pexels.com/photos/7469450/pexels-photo-7469450.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-7469450.txt?datasetVersionNumber=1",
+    "source_label_sha256": "8ed25bef148fcc744854e70cc73ac486eee0eee51f270a740d9235dbe3bba4c1",
+    "boxes": [
+      [
+        0,
+        0.481375,
+        0.60325,
+        0.75325,
+        0.7935000000000001
+      ]
+    ],
+    "stem": "pexels-photo-7469450",
+    "image_sha256": "2ad9bce4e72ae867a570594c43a25434b08fa301f92afb44f9d7ae9491e37791",
+    "height": 960,
+    "width": 640,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-7469450.jpg",
+    "image_file_sha256": "798863a3dcce6d0092565e2db5bea0a58bb912f5a99d38fead0a1a6b96334b59"
+  },
+  {
+    "group": "3790811",
+    "photo_id": 3790811,
+    "source_url": "https://images.pexels.com/photos/3790811/pexels-photo-3790811.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3790811.txt?datasetVersionNumber=1",
+    "source_label_sha256": "b1d122cb16a9613f17579191bbf5ce0064ccadc61d364b39f1a91bfeef2bbd6f",
+    "boxes": [
+      [
+        0,
+        0.475788,
+        0.573623,
+        0.343191,
+        0.6567530000000001
+      ]
+    ],
+    "stem": "pexels-photo-3790811",
+    "image_sha256": "3954f721b8af32f40185e64e0344b764e8678098636a59d7441063e8176d1641",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-3790811.jpg",
+    "image_file_sha256": "25ab79928d00ae91761978f899b82784fb2753f8f53ce9cebeb983083c4a47ca"
+  },
+  {
+    "group": "3790811",
+    "photo_id": 3790833,
+    "source_url": "https://images.pexels.com/photos/3790833/pexels-photo-3790833.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3790833.txt?datasetVersionNumber=1",
+    "source_label_sha256": "a4919c3a2b0aa6d7fd93f5a897d60ec74bd89e32dd6fd728760b9d404aa49bc0",
+    "boxes": [
+      [
+        0,
+        0.591081,
+        0.595801,
+        0.284505,
+        0.808398
+      ]
+    ],
+    "stem": "pexels-photo-3790833",
+    "image_sha256": "ae93d2b91ed55ba850e65f8eac8818d4be412e18bd646ac315d6660b6b2464d3",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-3790833.jpg",
+    "image_file_sha256": "26e9b1eb7c993860171c3fb57abba3a5ddc9f31f2773719075f5e863fde13d11"
+  },
+  {
+    "group": "3790811",
+    "photo_id": 3790848,
+    "source_url": "https://images.pexels.com/photos/3790848/pexels-photo-3790848.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3790848.txt?datasetVersionNumber=1",
+    "source_label_sha256": "d582cc3ffa20059859b4eb812d1da80ba32200d31a35d5830f4c4a52b1c08229",
+    "boxes": [
+      [
+        0,
+        0.3376950000000001,
+        0.445996,
+        0.609505,
+        0.639258
+      ]
+    ],
+    "stem": "pexels-photo-3790848",
+    "image_sha256": "fae65ca10f0683bbe580e680306b8a3a830d4261ae730c81ff4217e2e5902fa1",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-3790848.jpg",
+    "image_file_sha256": "41c6ef05527cc37f7cc66267e06639bd3320deabaef4236632365c0b4f8b7c83"
+  },
+  {
+    "group": "3790811",
+    "photo_id": 3790849,
+    "source_url": "https://images.pexels.com/photos/3790849/pexels-photo-3790849.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-3790849.txt?datasetVersionNumber=1",
+    "source_label_sha256": "8bf704eaa36db29f9ce1bbab53b3a876f1d28d08b88790220ca61a965c58d5bc",
+    "boxes": [
+      [
+        0,
+        0.554102,
+        0.628125,
+        0.31262999999999996,
+        0.7437499999999999
+      ]
+    ],
+    "stem": "pexels-photo-3790849",
+    "image_sha256": "c9f3dc4ef85eaa4969bf004171630984522edde8c531e49a4caf9191eac58f9a",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-3790849.jpg",
+    "image_file_sha256": "55a00433ddb37732e66b329292a1e586f88f53efca323ff6e8801b193d7fc287"
+  },
+  {
+    "group": "5673498",
+    "photo_id": 5673498,
+    "source_url": "https://images.pexels.com/photos/5673498/pexels-photo-5673498.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-5673498.txt?datasetVersionNumber=1",
+    "source_label_sha256": "fdac04a4227ef1af1bb6ac6add8e7b6efdf238369659adc157c9ced0023e7cb4",
+    "boxes": [
+      [
+        0,
+        0.34575,
+        0.549,
+        0.3101670000000001,
+        0.9019999999999999
+      ]
+    ],
+    "stem": "pexels-photo-5673498",
+    "image_sha256": "05cdb5088cce120079f62696f8b03f026cee5ea5710567f952b3e93448972d3e",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-5673498.jpg",
+    "image_file_sha256": "38db2bf2c9d84f9739207b0fa406812e1e1baf2acc221fa4655b73b76c8f6bd7"
+  },
+  {
+    "group": "5673498",
+    "photo_id": 5673501,
+    "source_url": "https://images.pexels.com/photos/5673501/pexels-photo-5673501.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-5673501.txt?datasetVersionNumber=1",
+    "source_label_sha256": "79585d4c1525508bcbae8f1926810b316abfd152e93a678a19eac212dd5e76c7",
+    "boxes": [
+      [
+        0,
+        0.4565,
+        0.501375,
+        0.34166699999999994,
+        0.99725
+      ]
+    ],
+    "stem": "pexels-photo-5673501",
+    "image_sha256": "8539c152de8b670644581f64e06f556dc7618f3da072643141cd166bf7989d94",
+    "height": 640,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-5673501.jpg",
+    "image_file_sha256": "f1a7289e6a149a5959d2cefcd3bdda02c386d30527cc83a852c6074e38bbea28"
+  },
+  {
+    "group": "5673498",
+    "photo_id": 5673503,
+    "source_url": "https://images.pexels.com/photos/5673503/pexels-photo-5673503.jpeg",
+    "label_url": "https://www.kaggle.com/api/v1/datasets/download/mugheesahmad/sh17-dataset-for-ppe-detection/labels%2Fpexels-photo-5673503.txt?datasetVersionNumber=1",
+    "source_label_sha256": "68fd8ac715c863ccd18e7632768bddd9d95a3f2310c790ecc0c594fb94ddb6d8",
+    "boxes": [
+      [
+        0,
+        0.582638,
+        0.42159,
+        0.47771199999999997,
+        0.84318
+      ]
+    ],
+    "stem": "pexels-photo-5673503",
+    "image_sha256": "ddd1685095392df2dbb2bef1a6c00bbc44424535c703b6dba222f98f8117bcf5",
+    "height": 450,
+    "width": 960,
+    "split": "train",
+    "image_file": "images/train/pexels-photo-5673503.jpg",
+    "image_file_sha256": "2eae4af098028d97c4267ad2374e7e61557881db87b380c4350e8888b7aacdd1"
+  }
+]
